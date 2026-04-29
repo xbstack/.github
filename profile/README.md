@@ -21,5 +21,10 @@
 - **Identity**: 小白 (Fullstack + Investor + Outdoor)
 - **Status**: 正在向上生长中...
 
+## ✍️ 最新博文 / Latest Insights
+<!-- RSS-FEED-LIST:START -->
+*(正在同步 xbstack.com 深度内容...)*
+<!-- RSS-FEED-LIST:END -->
+
 ---
 Built with ❤️ by [xbstack](https://xbstack.com)
