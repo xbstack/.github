@@ -1,30 +1,50 @@
-# 🚀 xbstack (AltStack)
+# Hi, I'm xbstack 👋
 
-> **在高处看世界，在底层堆资产。**
+Full-Stack Developer focused on **AI Agent Development**, **AI Systems**, and **Indie Building**.
 
-欢迎来到 **xbstack** 。我们专注于构建“向上生长”的数字基石，涵盖全栈技术实战、资产复利系统以及极致的户外探索逻辑。
-
-## 🛠️ 核心矩阵
-
-*   **[AltStack (myblogAdmin)](https://github.com/xbstack/myblogAdmin)**: 基于 Astro 5.0 的全栈数字资产系统。
-*   **[my-blog-public](https://github.com/xbstack/my-blog-public)**: 全球分布式部署的静态内容底座。
-
-## 🏔️ 我们的信条
-
-1.  **逻辑独立**：不追逐噪音，只在周期中寻找确定的信号。
-2.  **实战为王**：每一行代码、每一笔投资、每一次攀登，都必须有迹可循。
-3.  **系统复利**：无论是技术栈的积累还是资产的配置，追求的是“大概率的赢”。
-
-## 📬 建立联系
-
-- **Official Website**: [xbstack.com](https://xbstack.com)
-- **Identity**: 小白 (Fullstack + Investor + Outdoor)
-- **Status**: 正在向上生长中...
-
-## ✍️ 最新博文 / Latest Insights
-<!-- RSS-FEED-LIST:START -->
-*(正在同步 xbstack.com 深度内容...)*
-<!-- RSS-FEED-LIST:END -->
+I build, test, and write about:
+- AI Agent Architecture & Memory Systems
+- Multi-Agent Systems & LangGraph 
+- MCP Protocol (Model Context Protocol) 实战
+- Full-Stack Web Development (Astro 5.0 / React)
 
 ---
-Built with ❤️ by [xbstack](https://xbstack.com)
+
+## 🚀 AI Agent Deep Dive (Hardcore Tutorials)
+
+👉 **[Start Here: AI Agent 实战手册与开发指南 →](https://www.xbstack.com/github)**
+
+I share in-depth, practical content on:
+- **How to build AI Agents from scratch** (No fluff, just logic)
+- **AI Agent system design & architecture**
+- **Real-world AI Agent use cases** (Customer Support, Finance, etc.)
+
+---
+
+## 🔥 Popular Articles
+
+- **Memory Implementation** (3000 words) → [Read More](https://www.xbstack.com/ai/ai-agent-memory-implementation)
+- **Customer Support Automation** → [Read More](https://www.xbstack.com/ai/ai-agent-customer-support-automation)
+- **MCP Protocol Guide** → [Read More](https://www.xbstack.com/ai/mcp-protocol-guide)
+- **AI Agent Architecture** → [Read More](https://www.xbstack.com/ai/ai-agent-architecture)
+
+---
+
+## 🧗 What I'm Doing
+
+- Building an AI Agent content system (Goal: 200+ Articles)
+- Exploring the intersection of **AI and Investing**
+- Hiking in the mountains of Guizhou, China 🏔️
+
+---
+
+## 🌐 Connect
+
+👉 Website: [xbstack.com](https://www.xbstack.com)  
+👉 RSS: [Subscribe](https://www.xbstack.com/rss.xml)  
+👉 WeChat: **贵州户外**
+
+---
+
+Building in public 🚀  
+AI Agent | AI Development | Full-Stack AI | Indie Hacker | Digital Assets
