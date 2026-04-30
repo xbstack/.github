@@ -1,46 +1,44 @@
-# Hi, I'm xbstack 👋
+# XBSTACK 👋
 
-Full-Stack Developer focused on **AI Agent Development**, **AI Systems Architecture**, and **Digital Asset Building**.
+Full-stack developer focused on **AI Agent Development**, **MCP Protocol**, **Multi-Agent Systems**, and high-performance web architecture.
 
-I build, test, and write about:
-- **AI Agent Architecture** & Memory Systems
-- **LangGraph** & Multi-Agent Orchestration
-- **Model Context Protocol (MCP)** 실전
-- **Astro 5.0** / React High-Performance Web
+I build AI systems, indie products, and technical content around AI Agent engineering.
+
+> **在高处看世界，在底层堆资产。**
 
 ---
 
-## 🚀 AI Agent Development Hub (Hardcore)
+## 🚀 Focus Areas
 
-👉 **[Start Here: AI Agent 实战手册与开发中心 →](https://www.xbstack.com/github)**
-
-I share in-depth, practical content on:
-- **How to Build AI Agent Memory Systems** (3000+ words)
-- **AI Agent Customer Support Automation Example**
-- **System Design for Agentic Workflows**
-
----
-
-## 🔥 Popular Articles (Search Entry)
-
-- **AI Agent Complete Guide (Pillar Page)** → [Read](https://www.xbstack.com/ai/ai-agent-complete-guide)
-- **Memory Implementation 实战** → [Read](https://www.xbstack.com/ai/ai-agent-memory-implementation)
-- **Customer Support Automation** → [Read](https://www.xbstack.com/ai/ai-agent-customer-support-automation)
-- **MCP Protocol Guide** → [Read](https://www.xbstack.com/ai/mcp-protocol-guide)
+- **AI Agent Architecture** & Design Patterns
+- **MCP Protocol** & AI Tool Integration 实战
+- **AI Agent Memory Systems** (Short-term & Long-term)
+- **Multi-Agent Systems** & Orchestration (LangGraph / AutoGen)
+- **Astro 5.0** / React / Full-stack Engineering
+- **Indie Apps** & Digital Asset Building
 
 ---
 
-## 🧗 What I'm Doing
-- Building an AI Agent content system (Goal: 200+ Articles)
-- Scaling the **AltStack** Digital Asset Engine
-- Hiking in the mountains of Guizhou, China 🏔️
+## 📖 Start Here (Hardcore Guides)
+
+👉 **[Start with AI Agent Guide & Hub →](https://www.xbstack.com/github)**
+
+- **[AI Agent Complete Guide (2026)](https://www.xbstack.com/ai/ai-agent-complete-guide)**
+- **[MCP Protocol Tutorial for AI Agents](https://www.xbstack.com/ai/mcp-protocol-guide)**
+- **[AI Agent Memory System Tutorial](https://www.xbstack.com/ai/ai-agent-memory-implementation)**
+- **[Multi-Agent Systems Guide](https://www.xbstack.com/ai/multi-agent-systems)**
+- **[AI Agent Architecture Guide](https://www.xbstack.com/ai/ai-agent-architecture)**
+
+---
+
+## 🧩 Featured Projects
+*   **[AltStack (myblogAdmin)](https://github.com/xbstack/myblogAdmin)** - Astro 5.0 CMS for Digital Assets.
+*   **[my-blog-public](https://github.com/xbstack/my-blog-public)** - Global Static Content Infrastructure.
 
 ---
 
 ## 🌐 Connect
-👉 Hub: [xbstack.com/github](https://www.xbstack.com/github)  
-👉 RSS: [Subscribe](https://www.xbstack.com/rss.xml)  
-👉 WeChat: **贵州户外**
+[xbstack.com](https://www.xbstack.com) | [RSS Feed](https://www.xbstack.com/rss.xml) | **WeChat: 贵州户外**
 
 ---
 
