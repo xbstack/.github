@@ -45,6 +45,11 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ---
 
+## 🆕 Latest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 ## 🚀 Building in Public
 
 I am building a long-term technical content system around **AI Agent engineering**, **MCP Protocol**, full-stack AI products, and independent digital assets.
