@@ -15,15 +15,15 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ---
 
-## ⭐ Start Here
+## ⭐ Start Here (Hot Technical Guides)
 
-👉 **[AI Agent Development Hub (The Nexus)](https://www.xbstack.com/github/)**  
+👉 **[AI Agent Development Hub (The Nexus) →](https://www.xbstack.com/github/)**  
 
-- **[AI Agent Complete Guide (2026)](https://www.xbstack.com/ai/ai-agent-complete-guide)**  
-- **[MCP Protocol Tutorial for AI Agents](https://www.xbstack.com/ai/mcp-protocol-guide)**  
-- **[AI Agent Memory System Tutorial](https://www.xbstack.com/ai/ai-agent-memory-implementation)**  
-- **[Multi-Agent Systems Guide](https://www.xbstack.com/ai/multi-agent-systems)**  
-- **[AI Agent Architecture Guide](https://www.xbstack.com/ai/ai-agent-architecture)**
+- **[AI Email Agent Tutorial (3500 words)](https://www.xbstack.com/ai/how-to-build-ai-email-agent)** — Building a production-ready inbox manager.
+- **[AI Agent SEO Workflow Tutorial](https://www.xbstack.com/ai/ai-agent-seo-content-workflow)** — Automating digital asset production.
+- **[AI Agent Memory System Tutorial](https://www.xbstack.com/ai/ai-agent-memory-implementation)** — Solving the "Goldfish Memory" problem.
+- **[MCP Protocol Tutorial for AI Agents](https://www.xbstack.com/ai/mcp-protocol-guide)** — The new standard for AI tool integration.
+- **[AI Agent Complete Guide (2026)](https://www.xbstack.com/ai/ai-agent-complete-guide)** — The 8600-word cornerstone of this lab.
 
 ---
 
