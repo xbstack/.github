@@ -11,10 +11,17 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: List Files (Debug)
+        run: ls -R
+        
+      - name: Update README
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.xbstack.com/rss.xml"
-          readme_path: "profile/README.md"
+          readme_path: "./profile/README.md"
           max_post_count: 5
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: 同步最新文章到 Profile"
