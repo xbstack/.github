@@ -47,6 +47,11 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent 在客服中的应用：如何构建真正“听得懂人话”的自动系统](https://www.xbstack.com/ai/ai-agent-customer-support-automation/)
+- [AI Agent Memory 怎么实现？从入门到 3000 字深度实战](https://www.xbstack.com/ai/ai-agent-memory-implementation/)
+- [AI Agent for SEO Content Workflow: Automating Domain Authority](https://www.xbstack.com/ai/ai-agent-seo-content-workflow/)
+- [How to Build an AI Email Agent: Step-by-Step Automation Tutorial](https://www.xbstack.com/ai/how-to-build-ai-email-agent/)
+- [AI Agent Evaluation Guide: How to Evaluate AI Agent Performance（完整评估方法）](https://www.xbstack.com/ai/ai-agent-evaluation-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
