@@ -11,6 +11,8 @@
 ## ✍️ 个人博客最新动态 (Latest from AltStack)
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready AI Trading Agent: Real-time Technical Analysis with LongBridge API (圣经级实战)](https://xbstack.com/ai/how-to-build-ai-trading-agent/)
+- [Automating Customer Feedback Loops with AI Agents: A Full-Stack Implementation Guide (圣经级实战)](https://xbstack.com/ai/automating-customer-feedback-loops-ai-agents/)
 - [AI Agent 在客服中的应用：如何构建真正“听得懂人话”的自动系统](https://www.xbstack.com/ai/ai-agent-customer-support-automation/)
 - [AI Agent Memory 怎么实现？从入门到 3000 字深度实战](https://www.xbstack.com/ai/ai-agent-memory-implementation/)
 - [AI Agent for SEO Content Workflow: Automating Domain Authority](https://www.xbstack.com/ai/ai-agent-seo-content-workflow/)

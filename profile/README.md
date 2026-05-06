@@ -19,6 +19,8 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 👉 **[AI Agent Development Hub (The Nexus) →](https://www.xbstack.com/github/)**  
 
+- **[Building a Production AI Trading Agent (5000 words)](https://www.xbstack.com/ai/how-to-build-ai-trading-agent)** — Real-time execution with LongBridge API.
+- **[Automating SaaS Feedback Loops (3500 words)](https://www.xbstack.com/ai/automating-customer-feedback-loops-ai-agents)** — Autonomous customer success with LangGraph.
 - **[AI Email Agent Tutorial (3500 words)](https://www.xbstack.com/ai/how-to-build-ai-email-agent)** — Building a production-ready inbox manager.
 - **[AI Agent SEO Workflow Tutorial](https://www.xbstack.com/ai/ai-agent-seo-content-workflow)** — Automating digital asset production.
 - **[AI Agent Memory System Tutorial](https://www.xbstack.com/ai/ai-agent-memory-implementation)** — Solving the "Goldfish Memory" problem.
@@ -47,6 +49,8 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Ready AI Trading Agent: Real-time Technical Analysis with LongBridge API (圣经级实战)](https://xbstack.com/ai/how-to-build-ai-trading-agent/)
+- [Automating Customer Feedback Loops with AI Agents: A Full-Stack Implementation Guide (圣经级实战)](https://xbstack.com/ai/automating-customer-feedback-loops-ai-agents/)
 - [MCP 与 A2A：AI 智能体协议生态深度解析 &lpar;2026 协议地图与趋势&rpar;](https://www.xbstack.com/ai/ai-agent-protocol-ecosystem/)
 - [AI Agent vs Workflow Automation：为什么 AI 智能体将取代传统 RPA？](https://www.xbstack.com/ai/ai-agent-vs-workflow-automation/)
 - [从录音到行动项：手把手教你构建工业级 AI 会议纪要智能体 &lpar;Meeting Notes Agent&rpar;](https://www.xbstack.com/ai/ai-meeting-notes-agent-tutorial/)
