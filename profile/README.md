@@ -49,13 +49,11 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready AI Trading Agent: Real-time Technical Analysis with LongBridge API (圣经级实战)](https://xbstack.com/ai/how-to-build-ai-trading-agent/)
-- [Automating Customer Feedback Loops with AI Agents: A Full-Stack Implementation Guide (圣经级实战)](https://xbstack.com/ai/automating-customer-feedback-loops-ai-agents/)
+- [Automating Customer Feedback Loops with AI Agents: A Full-Stack Implementation Guide](https://www.xbstack.com/ai/automating-customer-feedback-loops-ai-agents/)
+- [Building a Production-Ready AI Trading Agent: Real-time Technical Analysis with LongBridge API](https://www.xbstack.com/ai/how-to-build-ai-trading-agent/)
 - [MCP 与 A2A：AI 智能体协议生态深度解析 &lpar;2026 协议地图与趋势&rpar;](https://www.xbstack.com/ai/ai-agent-protocol-ecosystem/)
 - [AI Agent vs Workflow Automation：为什么 AI 智能体将取代传统 RPA？](https://www.xbstack.com/ai/ai-agent-vs-workflow-automation/)
 - [从录音到行动项：手把手教你构建工业级 AI 会议纪要智能体 &lpar;Meeting Notes Agent&rpar;](https://www.xbstack.com/ai/ai-meeting-notes-agent-tutorial/)
-- [招聘提效 90%：构建一个自动化简历筛选智能体 &lpar;AI Resume Screening Agent&rpar;](https://www.xbstack.com/ai/ai-resume-screening-agent-tutorial/)
-- [GitHub 仓库混乱治理：手把手带你构建 AI Issue 分类智能体 &lpar;Triage Agent&rpar;](https://www.xbstack.com/ai/ai-github-issue-triage-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
