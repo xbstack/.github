@@ -49,11 +49,11 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Customer Feedback Agent: A Full-Stack Tutorial &lpar;2026 Edition&rpar;](https://www.xbstack.com/ai/how-to-build-ai-customer-feedback-agent/)
+- [2026 AI 代码审查智能体横评：谁才是最懂程序员的“数字审计员”？](https://www.xbstack.com/ai/ai-code-review-agent-comparison/)
+- [招聘提效 90%：构建一个自动化简历筛选智能体 &lpar;AI Resume Screening Agent&rpar;](https://www.xbstack.com/ai/ai-resume-screening-agent-tutorial/)
 - [How to Build an AI Trading Agent: A Step-by-Step Tutorial &lpar;2026 Edition&rpar;](https://www.xbstack.com/ai/how-to-build-ai-trading-agent/)
+- [How to Build an AI Customer Feedback Agent: A Full-Stack Tutorial &lpar;2026 Edition&rpar;](https://www.xbstack.com/ai/how-to-build-ai-customer-feedback-agent/)
 - [AI Agent 全栈指南：从底层架构、MCP 协议到多智能体编排 &lpar;2026 深度版&rpar;](https://www.xbstack.com/ai/ai-agent-complete-guide/)
-- [MCP 与 A2A：AI 智能体协议生态深度解析 &lpar;2026 协议地图与趋势&rpar;](https://www.xbstack.com/ai/ai-agent-protocol-ecosystem/)
-- [AI Agent vs Workflow Automation：为什么 AI 智能体将取代传统 RPA？](https://www.xbstack.com/ai/ai-agent-vs-workflow-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
