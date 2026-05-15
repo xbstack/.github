@@ -49,11 +49,11 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [CrewAI vs LangGraph for AI Workflows: Choosing the Right OS for Your Agentic Mesh](https://www.xbstack.com/ai/crewai-vs-langgraph-for-ai-workflows/)
+- [AI Lead Scoring Agent Tutorial: Build Your Own Intent-Aware Sales Engine](https://www.xbstack.com/ai/how-to-build-ai-lead-scoring-agent/)
+- [How to Build an AI Log Analysis Agent | Step-by-Step Guide for DevOps Automation &amp; Incident Response](https://www.xbstack.com/ai/ai-log-analysis-agent/)
+- [Best AI Agents for CRM Automation | 2026 Comparison &amp; Review: From Lead Generation to Closed-Loop Workflows](https://www.xbstack.com/ai/best-ai-agents-crm-automation/)
 - [How to Build an AI Expense Tracking Agent: Automating Financial Sovereignty：构建高并发业务自动化场景 &lpar;Business Automation&rpar;](https://www.xbstack.com/ai/how-to-build-ai-expense-tracking-agent/)
-- [Zapier vs. AI Agents 2026: Determinism vs. Semantic Autonomy：构建高并发业务自动化场景 &lpar;Business Automation&rpar;](https://www.xbstack.com/ai/zapier-vs-ai-agents-2026/)
-- [How to Build an AI Email Routing Agent: A Sovereign Workflow Guide：构建高并发业务自动化场景 &lpar;Business Automation&rpar;](https://www.xbstack.com/ai/ai-email-routing-agent/)
-- [Best AI Agents for Customer Support Automation &lpar;2026 Benchmark&rpar;：构建高并发业务自动化场景 &lpar;Business Automation&rpar;](https://www.xbstack.com/ai/best-ai-support-agents-2026/)
-- [How to Build an AI Contract Review Agent: Automating Legal Risk Detection：构建高并发业务自动化场景 &lpar;Business Automation&rpar;](https://www.xbstack.com/ai/how-to-build-ai-contract-review-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
