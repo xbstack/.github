@@ -49,11 +49,11 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an AI Knowledge Base Agent: Automating Team Wisdom &amp; Docs](https://www.xbstack.com/ai/ai-knowledge-base-agent/)
+- [n8n vs Make: Which Engine for AI Workflow Automation in 2026?](https://www.xbstack.com/ai/n8n-vs-make-ai-workflow-automation/)
+- [How to Build an AI Ticket Routing Agent: Automating Multi-Platform Support Logic](https://www.xbstack.com/ai/ai-ticket-routing-agent/)
+- [LangChain vs CrewAI: Which Framework for Multi-Agent Orchestration in 2026?](https://www.xbstack.com/ai/langchain-vs-crewai-for-ai-agents/)
 - [CrewAI vs LangGraph for AI Workflows: Choosing the Right OS for Your Agentic Mesh](https://www.xbstack.com/ai/crewai-vs-langgraph-for-ai-workflows/)
-- [AI Lead Scoring Agent Tutorial: Build Your Own Intent-Aware Sales Engine](https://www.xbstack.com/ai/how-to-build-ai-lead-scoring-agent/)
-- [How to Build an AI Log Analysis Agent | Step-by-Step Guide for DevOps Automation &amp; Incident Response](https://www.xbstack.com/ai/ai-log-analysis-agent/)
-- [Best AI Agents for CRM Automation | 2026 Comparison &amp; Review: From Lead Generation to Closed-Loop Workflows](https://www.xbstack.com/ai/best-ai-agents-crm-automation/)
-- [How to Build an AI Expense Tracking Agent: Automating Financial Sovereignty：构建高并发业务自动化场景 &lpar;Business Automation&rpar;](https://www.xbstack.com/ai/how-to-build-ai-expense-tracking-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
