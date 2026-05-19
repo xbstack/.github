@@ -49,11 +49,11 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an AI Vendor Management Agent &lpar;Tutorial&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/)
+- [CrewAI vs AutoGen: The Definitive Comparison for AI Workflow Automation &lpar;2026&rpar;](https://www.xbstack.com/ai/crewai-vs-autogen-for-workflow-automation/)
+- [How to Build an AI Invoice Approval Agent &lpar;Tutorial&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-invoice-approval-agent/)
+- [Zapier vs Make vs n8n for AI Workflow Automation &lpar;Comparison&rpar;](https://www.xbstack.com/ai/zapier-vs-make-vs-n8n-for-ai-workflow-automation/)
 - [How to Build an AI Knowledge Base Agent: Automating Team Wisdom &amp; Docs](https://www.xbstack.com/ai/ai-knowledge-base-agent/)
-- [n8n vs Make: Which Engine for AI Workflow Automation in 2026?](https://www.xbstack.com/ai/n8n-vs-make-ai-workflow-automation/)
-- [How to Build an AI Ticket Routing Agent: Automating Multi-Platform Support Logic](https://www.xbstack.com/ai/ai-ticket-routing-agent/)
-- [LangChain vs CrewAI: Which Framework for Multi-Agent Orchestration in 2026?](https://www.xbstack.com/ai/langchain-vs-crewai-for-ai-agents/)
-- [CrewAI vs LangGraph for AI Workflows: Choosing the Right OS for Your Agentic Mesh](https://www.xbstack.com/ai/crewai-vs-langgraph-for-ai-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
