@@ -49,11 +49,11 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [AI Customer Support vs AI Ticket Routing Agent &lpar;AI客服自动化 vs 工单路由对比&rpar;](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/)
+- [How to Build an AI Procurement Invoice Matching Agent &lpar;AI采购发票匹配智能体教程&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-procurement-invoice-matching-agent/)
+- [CrewAI vs AutoGen for AI Workflow Automation: The 2026 Definitive Comparison](https://www.xbstack.com/ai/crewai-vs-autogen-for-workflow-automation/)
 - [How to Build an AI Vendor Management Agent &lpar;Tutorial&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/)
-- [CrewAI vs AutoGen: The Definitive Comparison for AI Workflow Automation &lpar;2026&rpar;](https://www.xbstack.com/ai/crewai-vs-autogen-for-workflow-automation/)
 - [How to Build an AI Invoice Approval Agent &lpar;Tutorial&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-invoice-approval-agent/)
-- [Zapier vs Make vs n8n for AI Workflow Automation &lpar;Comparison&rpar;](https://www.xbstack.com/ai/zapier-vs-make-vs-n8n-for-ai-workflow-automation/)
-- [How to Build an AI Knowledge Base Agent: Automating Team Wisdom &amp; Docs](https://www.xbstack.com/ai/ai-knowledge-base-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
