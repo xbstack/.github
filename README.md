@@ -11,13 +11,10 @@
 ## ✍️ 个人博客最新动态 (Latest from AltStack)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an AI Expense Approval Agent: Automating Business Governance (圣经级实战)](https://xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/)
+- [AI Sales Assistant vs AI Lead Scoring Agent: Choosing Your Revenue Engine (圣经级实战)](https://xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/)
 - [Building a Production-Ready AI Trading Agent: Real-time Technical Analysis with LongBridge API (圣经级实战)](https://xbstack.com/ai/how-to-build-ai-trading-agent/)
 - [Automating Customer Feedback Loops with AI Agents: A Full-Stack Implementation Guide (圣经级实战)](https://xbstack.com/ai/automating-customer-feedback-loops-ai-agents/)
-- [AI Agent 在客服中的应用：如何构建真正“听得懂人话”的自动系统](https://www.xbstack.com/ai/ai-agent-customer-support-automation/)
-- [AI Agent Memory 怎么实现？从入门到 3000 字深度实战](https://www.xbstack.com/ai/ai-agent-memory-implementation/)
-- [AI Agent for SEO Content Workflow: Automating Domain Authority](https://www.xbstack.com/ai/ai-agent-seo-content-workflow/)
-- [How to Build an AI Email Agent: Step-by-Step Automation Tutorial](https://www.xbstack.com/ai/how-to-build-ai-email-agent/)
-- [AI Agent Evaluation Guide: How to Evaluate AI Agent Performance（完整评估方法）](https://www.xbstack.com/ai/ai-agent-evaluation-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -1,17 +1,18 @@
 # XBSTACK 👋
 
-Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Multi-Agent Systems**, and high-performance web architecture.
+**Independent AI Engineering Lab** focused on **AI Agent Engineering**, **Workflow Systems**, **MCP Protocol**, and high-performance **Local AI Infrastructure**.
 
 > **在高处看世界，在底层堆资产。**
 
 ---
 
-## 🔭 What I Build
+## 🔭 The Lab
 
-- AI Agent architecture, orchestration, and automated agents.
-- AI tooling, **MCP Protocol** integration, and vector memory systems.
-- Real-world engineering tutorials and system design patterns.
-- Indie apps & digital products for long-term growth.
+- **AI Agents**: Autonomous reasoning, planning & tool-use architectures.
+- **Workflow Systems**: Orchestrating complex logic with LangGraph & CrewAI.
+- **MCP Protocol**: Standardized tool integration for secure LLM execution.
+- **Local AI**: Private inference infrastructure & on-device model deployment.
+- **Engineering Experiments**: Real-world benchmarks & technical audits.
 
 ---
 
@@ -19,41 +20,19 @@ Full-stack developer focused on **AI Agent Engineering**, **MCP Protocol**, **Mu
 
 👉 **[AI Agent Development Hub (The Nexus) →](https://www.xbstack.com/github/)**  
 
-- **[Building a Production AI Trading Agent (5000 words)](https://www.xbstack.com/ai/how-to-build-ai-trading-agent)** — Real-time execution with LongBridge API.
-- **[Automating SaaS Feedback Loops (3500 words)](https://www.xbstack.com/ai/automating-customer-feedback-loops-ai-agents)** — Autonomous customer success with LangGraph.
-- **[AI Email Agent Tutorial (3500 words)](https://www.xbstack.com/ai/how-to-build-ai-email-agent)** — Building a production-ready inbox manager.
-- **[AI Agent SEO Workflow Tutorial](https://www.xbstack.com/ai/ai-agent-seo-content-workflow)** — Automating digital asset production.
-- **[AI Agent Memory System Tutorial](https://www.xbstack.com/ai/ai-agent-memory-implementation)** — Solving the "Goldfish Memory" problem.
-- **[MCP Protocol Tutorial for AI Agents](https://www.xbstack.com/ai/mcp-protocol-guide)** — The new standard for AI tool integration.
-- **[AI Agent Complete Guide (2026)](https://www.xbstack.com/ai/ai-agent-complete-guide)** — The 8600-word cornerstone of this lab.
-
----
-
-## 📦 Featured Projects
-
-- [AltStack](https://github.com/xbstack/myblogAdmin) — Astro 5.0 CMS for Digital Assets.
-- [Lunest](https://www.xbstack.com/tools) — Sleep tracking & personal health insights.
-- [AI Financial Report Auditor](https://www.xbstack.com/tools) — AI-powered financial analysis tool.
-- [Compound Interest Calculator](https://www.xbstack.com/tools/compound-calculator) — Long-term asset growth simulator.
-
----
-
-## 📫 Connect
-
-- **Website**: https://www.xbstack.com  
-- **AI Agent Hub**: https://www.xbstack.com/github/  
-- **RSS**: https://www.xbstack.com/rss.xml  
-- **WeChat**: 贵州户外
-
----
-
+- **[AI Expense Approval Agent (3200 words)](https://xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/)** — Enterprise finance automation tutorial.
+- **[AI Sales Assistant vs Lead Scoring (3500 words)](https://xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/)** — Sales automation strategy comparison.
+- **[AI Vendor Management Agent (3500 words)](https://xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/)** — Enterprise procurement automation with LangGraph & SAP.
+...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [AI Customer Support vs AI Ticket Routing Agent &lpar;AI客服自动化 vs 工单路由对比&rpar;](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/)
-- [How to Build an AI Procurement Invoice Matching Agent &lpar;AI采购发票匹配智能体教程&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-procurement-invoice-matching-agent/)
+- [How to Build an AI Expense Approval Agent (3200 words)](https://xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/)
+- [AI Sales Assistant vs AI Lead Scoring Agent (3500 words)](https://xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/)
+- [AI Customer Support vs AI Ticket Routing Agent (AI客服自动化 vs 工单路由对比)](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/)
+- [How to Build an AI Procurement Invoice Matching Agent (AI采购发票匹配智能体教程)](https://www.xbstack.com/ai/how-to-build-an-ai-procurement-invoice-matching-agent/)
 - [CrewAI vs AutoGen for AI Workflow Automation: The 2026 Definitive Comparison](https://www.xbstack.com/ai/crewai-vs-autogen-for-workflow-automation/)
-- [How to Build an AI Vendor Management Agent &lpar;Tutorial&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/)
-- [How to Build an AI Invoice Approval Agent &lpar;Tutorial&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-invoice-approval-agent/)
+- [How to Build an AI Vendor Management Agent (3500 words)](https://xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/)
+- [How to Build an AI Invoice Approval Agent (3200 words)](https://www.xbstack.com/ai/how-to-build-an-ai-invoice-approval-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
