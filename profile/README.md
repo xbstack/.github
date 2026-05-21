@@ -26,13 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Expense Approval Agent (3200 words)](https://xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/)
-- [AI Sales Assistant vs AI Lead Scoring Agent (3500 words)](https://xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/)
-- [AI Customer Support vs AI Ticket Routing Agent (AI客服自动化 vs 工单路由对比)](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/)
-- [How to Build an AI Procurement Invoice Matching Agent (AI采购发票匹配智能体教程)](https://www.xbstack.com/ai/how-to-build-an-ai-procurement-invoice-matching-agent/)
+- [AI Customer Support vs AI Ticket Routing Agent &lpar;AI客服自动化 vs 工单路由对比&rpar;](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/)
+- [How to Build an AI Procurement Invoice Matching Agent &lpar;AI采购发票匹配智能体教程&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-procurement-invoice-matching-agent/)
 - [CrewAI vs AutoGen for AI Workflow Automation: The 2026 Definitive Comparison](https://www.xbstack.com/ai/crewai-vs-autogen-for-workflow-automation/)
-- [How to Build an AI Vendor Management Agent (3500 words)](https://xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/)
-- [How to Build an AI Invoice Approval Agent (3200 words)](https://www.xbstack.com/ai/how-to-build-an-ai-invoice-approval-agent/)
+- [How to Build an AI Vendor Management Agent &lpar;Tutorial&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/)
+- [How to Build an AI Invoice Approval Agent &lpar;Tutorial&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-invoice-approval-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
