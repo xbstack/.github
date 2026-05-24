@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [MCP vs Function Calling：到底有什么区别？](https://www.xbstack.com/ai/mcp-vs-function-calling/)
+- [MCP Server 实战：如何让 Claude/Cursor 直接查询本地 SQLite 数据库](https://www.xbstack.com/ai/mcp-server-sqlite/)
 - [AI Sales Assistant vs AI Lead Scoring Agent: Choosing Your Revenue Engine &lpar;AI销售助手 vs 线索评分对比&rpar;](https://www.xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/)
 - [How to Build an AI Expense Approval Agent: Automating Business Governance &lpar;AI费用审批智能体教程&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/)
 - [AI Customer Support vs AI Ticket Routing Agent &lpar;AI客服自动化 vs 工单路由对比&rpar;](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/)
-- [How to Build an AI Procurement Invoice Matching Agent &lpar;AI采购发票匹配智能体教程&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-procurement-invoice-matching-agent/)
-- [CrewAI vs AutoGen for AI Workflow Automation: The 2026 Definitive Comparison](https://www.xbstack.com/ai/crewai-vs-autogen-for-workflow-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
