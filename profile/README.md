@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [MCP vs Function Calling：到底有什么区别？](https://www.xbstack.com/ai/mcp-vs-function-calling/)
-- [MCP Server 实战：如何让 Claude/Cursor 直接查询本地 SQLite 数据库](https://www.xbstack.com/ai/mcp-server-sqlite/)
-- [AI Sales Assistant vs AI Lead Scoring Agent: Choosing Your Revenue Engine &lpar;AI销售助手 vs 线索评分对比&rpar;](https://www.xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/)
-- [How to Build an AI Expense Approval Agent: Automating Business Governance &lpar;AI费用审批智能体教程&rpar;](https://www.xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/)
-- [AI Customer Support vs AI Ticket Routing Agent &lpar;AI客服自动化 vs 工单路由对比&rpar;](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/)
+- [程序员 FIRE 退休系统：利用复利对抗 35 岁职业半衰期](https://www.xbstack.com/investing/programmer-fire-system/)
+- [MCP vs Function Calling：AI Agent 选型的 5 个深度差异](https://www.xbstack.com/ai/mcp-vs-function-calling/)
+- [定投策略终极指南：利用数学逻辑在震荡市中摊平持仓成本](https://www.xbstack.com/investing/mastering-dca-strategy/)
+- [复利终极指南：从数学原理到程序员的资产自动化实战](https://www.xbstack.com/investing/ultimate-compounding-guide/)
+- [MCP Server 实战：让 Claude 访问本地 SQLite 的 5 个步骤与避坑指南](https://www.xbstack.com/ai/mcp-server-sqlite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
