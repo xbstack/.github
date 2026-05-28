@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Notion Knowledge Base Agent with n8n and ...](https://www.xbstack.com/ai/n8n-ai-notion-knowledge-base-agent/)
+- [How to Self-Host n8n for AI Workflows with Docker, VPS and NAS](https://www.xbstack.com/ai/self-hosted-n8n-ai-workflows/)
+- [How to Build an AI Notion Knowledge Base Agent with n8n and OpenAI](https://www.xbstack.com/ai/n8n-ai-notion-knowledge-base-agent/)
 - [程序员 FIRE 退休系统：利用复利对抗 35 岁职业半衰期](https://www.xbstack.com/investing/programmer-fire-system/)
 - [MCP vs Function Calling：AI Agent 选型的 5 个深度差异](https://www.xbstack.com/ai/mcp-vs-function-calling/)
 - [定投策略终极指南：利用数学逻辑在震荡市中摊平持仓成本](https://www.xbstack.com/investing/mastering-dca-strategy/)
-- [复利终极指南：从数学原理到程序员的资产自动化实战](https://www.xbstack.com/investing/ultimate-compounding-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
