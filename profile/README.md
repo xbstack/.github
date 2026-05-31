@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [n8n AI Workflow: Build a Gmail Summarizer with OpenAI and Google Sheets](https://www.xbstack.com/ai/n8n-ai-gmail-summarizer-openai-google-sheets/)
 - [How to Add Error Handling, Retries and Cost Monitoring to n8n AI Workflows](https://www.xbstack.com/ai/n8n-ai-workflow-error-handling/)
 - [How to Self-Host n8n for AI Workflows with Docker, VPS and NAS](https://www.xbstack.com/ai/self-hosted-n8n-ai-workflows/)
 - [How to Build an AI Notion Knowledge Base Agent with n8n and OpenAI](https://www.xbstack.com/ai/n8n-ai-notion-knowledge-base-agent/)
 - [程序员 FIRE 退休系统：利用复利对抗 35 岁职业半衰期](https://www.xbstack.com/investing/programmer-fire-system/)
-- [MCP vs Function Calling：AI Agent 选型的 5 个深度差异](https://www.xbstack.com/ai/mcp-vs-function-calling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
