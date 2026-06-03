@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [MCP 安全治理实战：如何防止 AI 删库跑路？从路径穿透到 Prompt Injection 的硬核防线](https://www.xbstack.com/ai/mcp-security-best-practices/)
+- [MCP Stdio 污染怎么处理：为什么 Claude / Cursor 读取不到你的 Server 输出](https://www.xbstack.com/ai/mcp-stdio-pollution-guide/)
 - [LangGraph Memory and Checkpointing for Production AI Agents](https://www.xbstack.com/ai/langgraph-memory-checkpointing-production-agents/)
-- [n8n AI Workflow: Build a Gmail Summarizer with OpenAI and Google Sheets](https://www.xbstack.com/ai/n8n-ai-gmail-summarizer-openai-google-sheets/)
-- [n8n AI Workflow: Build a Slack Daily Digest Bot with OpenAI](https://www.xbstack.com/ai/n8n-ai-slack-daily-digest-bot/)
-- [How to Add Error Handling, Retries and Cost Monitoring to n8n AI Workflows](https://www.xbstack.com/ai/n8n-ai-workflow-error-handling/)
-- [How to Self-Host n8n for AI Workflows with Docker, VPS and NAS](https://www.xbstack.com/ai/self-hosted-n8n-ai-workflows/)
+- [n8n AI Workflow 实战：Gmail 邮件摘要自动写入 Google Sheets](https://www.xbstack.com/ai/n8n-ai-gmail-summarizer-openai-google-sheets/)
+- [n8n AI Workflow 实战：Slack 每日摘要机器人](https://www.xbstack.com/ai/n8n-ai-slack-daily-digest-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
