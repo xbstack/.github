@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [MCP Filesystem Server 实战：让 Claude / Cursor 安全读取本地文件](https://www.xbstack.com/ai/mcp-filesystem-server/)
+- [MCP JSON-RPC parse error 怎么排查：为什么 Claude / Cursor 读不到你的 Server 输出](https://www.xbstack.com/ai/mcp-json-rpc-parse-error/)
 - [MCP 安全治理实战：如何防止 AI 删库跑路？从路径穿透到 Prompt Injection 的硬核防线](https://www.xbstack.com/ai/mcp-security-best-practices/)
 - [MCP Tool Call Result Truncated 怎么解决：深度拆解 Stdio 缓冲区与语义压缩实战](https://www.xbstack.com/ai/mcp-tool-call-truncated-fix/)
 - [MCP Stdio 污染怎么处理：为什么 Claude / Cursor 读取不到你的 Server 输出](https://www.xbstack.com/ai/mcp-stdio-pollution-guide/)
-- [LangGraph Memory and Checkpointing for Production AI Agents](https://www.xbstack.com/ai/langgraph-memory-checkpointing-production-agents/)
-- [n8n AI Workflow 实战：Slack 每日摘要机器人](https://www.xbstack.com/ai/n8n-ai-slack-daily-digest-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
