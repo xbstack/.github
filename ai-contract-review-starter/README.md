@@ -14,7 +14,7 @@ An autonomous legal auditing pipeline to extract clauses and detect risks in leg
 - **Hierarchical Clause Extraction**: Identifies nested obligations and liabilities.
 - **Risk Score Audit**: Automated 0-100 scoring based on pre-defined legal 'grammar'.
 - **Digital Sovereignty**: Optional local deployment via DeepSeek-VL.
-- **MCP Integration**: One-click red-line generation via MCP Doc Server.
+- **Stateful Recovery**: Integrated with [LangGraph Checkpointing](https://xbstack.com/ai/langgraph-memory-checkpointing-production-agents/) for long-running audits.
 
 ---
 
