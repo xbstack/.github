@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [MCP Streamable HTTP 实战：从本地 stdio Server 到远程 MCP 服务部署](https://www.xbstack.com/ai/mcp-streamable-http-deployment/) (2026-06-06)
-- [MCP Filesystem Server 实战：让 Claude / Cursor 安全读取本地文件](https://www.xbstack.com/ai/mcp-filesystem-server/) (2026-06-05)
-- [MCP JSON-RPC parse error 怎么排查：为什么 Claude / Cursor 读不到你的 Server 输出](https://www.xbstack.com/ai/mcp-json-rpc-parse-error/) (2026-06-04)
-- [MCP 安全治理实战：如何防止 AI 删库跑路？从路径穿透到 Prompt Injection 的硬核防线](https://www.xbstack.com/ai/mcp-security-best-practices/) (2026-06-03)
-- [MCP Tool Call Result Truncated 怎么解决：深度拆解 Stdio 缓冲区与语义压缩实战](https://www.xbstack.com/ai/mcp-tool-call-truncated-fix/) (2026-06-02)
+- [MCP Streamable HTTP 实战：从本地 stdio Server 到远程 MCP 服务部署](https://www.xbstack.com/ai/mcp-streamable-http-deployment/)
+- [MCP Filesystem Server 实战：让 Claude / Cursor 安全读取本地文件](https://www.xbstack.com/ai/mcp-filesystem-server/)
+- [MCP Server 实战：让 Claude 访问本地 SQLite 的 5 个步骤与避坑手册](https://www.xbstack.com/ai/mcp-server-sqlite/)
+- [MCP JSON-RPC parse error 怎么排查：为什么 Claude / Cursor 读不到你的 Server 输出](https://www.xbstack.com/ai/mcp-json-rpc-parse-error/)
+- [MCP 安全治理实战：如何防止 AI 删库跑路？从路径穿透到 Prompt Injection 的硬核防线](https://www.xbstack.com/ai/mcp-security-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
