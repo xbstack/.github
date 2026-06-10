@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [MCP OAuth 认证实战：远程 MCP Server 为什么不能裸奔？](https://www.xbstack.com/ai/mcp-oauth-authentication/)
 - [MCP Streamable HTTP 实战：从本地 stdio Server 到远程 MCP 服务部署](https://www.xbstack.com/ai/mcp-streamable-http-deployment/)
 - [MCP Filesystem Server 实战：让 Claude / Cursor 安全读取本地文件](https://www.xbstack.com/ai/mcp-filesystem-server/)
 - [MCP Server 实战：让 Claude 访问本地 SQLite 的 5 个步骤与避坑手册](https://www.xbstack.com/ai/mcp-server-sqlite/)
 - [MCP JSON-RPC parse error 怎么排查：为什么 Claude / Cursor 读不到你的 Server 输出](https://www.xbstack.com/ai/mcp-json-rpc-parse-error/)
-- [MCP 安全治理实战：如何防止 AI 删库跑路？从路径穿透到 Prompt Injection 的硬核防线](https://www.xbstack.com/ai/mcp-security-best-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
