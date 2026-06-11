@@ -25,25 +25,21 @@
 - **[AI Vendor Management Agent (3500 words)](https://xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/)** — Enterprise procurement automation with LangGraph & SAP.
 ...
 ## 🆕 Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- [LangGraph 多智能体协作实战：Supervisor、Worker 与状态交接怎么设计？](https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/)
-- [MCP OAuth 认证实战：远程 MCP Server 为什么不能裸奔？](https://www.xbstack.com/ai/mcp-oauth-authentication/)
-- [MCP Streamable HTTP 实战：从本地 stdio Server 到远程 MCP 服务部署](https://www.xbstack.com/ai/mcp-streamable-http-deployment/)
-- [MCP Filesystem Server 实战：让 Claude / Cursor 安全读取本地文件](https://www.xbstack.com/ai/mcp-filesystem-server/)
-- [MCP Server 实战：让 Claude 访问本地 SQLite 的 5 个步骤与避坑手册](https://www.xbstack.com/ai/mcp-server-sqlite/)
-<!-- BLOG-POST-LIST:END -->
+
+- [LangGraph 状态隔离实战：thread_id、session_id、user_id 怎么设计？](https://www.xbstack.com/ai/langgraph-thread-session-state-isolation/) (2026-06-11)
+- [LangGraph 多智能体协作实战：Supervisor、Worker 与状态交接怎么设计？](https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/) (2026-06-10)
+- [MCP OAuth 认证实战：远程 MCP Server 为什么不能裸奔？](https://www.xbstack.com/ai/mcp-oauth-authentication/) (2026-06-09)
+- [MCP Streamable HTTP 实战：从本地 stdio Server 到远程 MCP 服务部署](https://www.xbstack.com/ai/mcp-streamable-http-deployment/) (2026-06-06)
+- [MCP Filesystem Server 实战：让 Claude / Cursor 安全读取本地文件](https://www.xbstack.com/ai/mcp-filesystem-server/) (2026-06-05)
 
 ---
 ## LangGraph Production Notes
 
-- Supervisor / Worker handoff
-- thread_id / session_id isolation
+- Supervisor / Worker handoff (https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/?utm_source=github&utm_medium=readme&utm_campaign=langgraph_supervisor)
+- thread_id / session_id isolation (https://www.xbstack.com/ai/langgraph-thread-session-state-isolation/?utm_source=github&utm_medium=readme&utm_campaign=langgraph_state_isolation)
 - Checkpointer recovery
 - Human-in-the-loop workflow
 - Multi-agent observability
-
-Related article:
-https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/?utm_source=github&utm_medium=readme&utm_campaign=langgraph_supervisor
 
 ---
 ## 🚀 Building in Public
