@@ -34,6 +34,18 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+## LangGraph Production Notes
+
+- Supervisor / Worker handoff
+- thread_id / session_id isolation
+- Checkpointer recovery
+- Human-in-the-loop workflow
+- Multi-agent observability
+
+Related article:
+https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/?utm_source=github&utm_medium=readme&utm_campaign=langgraph_supervisor
+
+---
 ## 🚀 Building in Public
 
 I am building a long-term technical content system around **AI Agent engineering**, **MCP Protocol**, full-stack AI products, and independent digital assets.
