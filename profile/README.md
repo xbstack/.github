@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 
+- [LangGraph 多智能体失败恢复：Tool Error、Timeout 与重试策略](https://www.xbstack.com/ai/langgraph-agent-error-recovery-retry-timeout/) (2026-06-13)
+- [LangGraph Human-in-the-loop 实战：多智能体审批流怎么做？](https://www.xbstack.com/ai/langgraph-human-in-the-loop-approval/) (2026-06-12)
 - [LangGraph 状态隔离实战：thread_id、session_id、user_id 怎么设计？](https://www.xbstack.com/ai/langgraph-thread-session-state-isolation/) (2026-06-11)
 - [LangGraph 多智能体协作实战：Supervisor、Worker 与状态交接怎么设计？](https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/) (2026-06-10)
 - [MCP OAuth 认证实战：远程 MCP Server 为什么不能裸奔？](https://www.xbstack.com/ai/mcp-oauth-authentication/) (2026-06-09)
-- [MCP Streamable HTTP 实战：从本地 stdio Server 到远程 MCP 服务部署](https://www.xbstack.com/ai/mcp-streamable-http-deployment/) (2026-06-06)
-- [MCP Filesystem Server 实战：让 Claude / Cursor 安全读取本地文件](https://www.xbstack.com/ai/mcp-filesystem-server/) (2026-06-05)
 
 ---
 ## LangGraph Production Notes
