@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 
+- [LangGraph Observability 实战：如何追踪每个 Agent 的决策路径？](https://www.xbstack.com/ai/langgraph-observability-agent-trace/) (2026-06-14)
 - [LangGraph 多智能体失败恢复：Tool Error、Timeout 与重试策略](https://www.xbstack.com/ai/langgraph-agent-error-recovery-retry-timeout/) (2026-06-13)
 - [LangGraph Human-in-the-loop 实战：多智能体审批流怎么做？](https://www.xbstack.com/ai/langgraph-human-in-the-loop-approval/) (2026-06-12)
 - [LangGraph 状态隔离实战：thread_id、session_id、user_id 怎么设计？](https://www.xbstack.com/ai/langgraph-thread-session-state-isolation/) (2026-06-11)
 - [LangGraph 多智能体协作实战：Supervisor、Worker 与状态交接怎么设计？](https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/) (2026-06-10)
-- [MCP OAuth 认证实战：远程 MCP Server 为什么不能裸奔？](https://www.xbstack.com/ai/mcp-oauth-authentication/) (2026-06-09)
 
 ---
 ## LangGraph Production Notes
@@ -39,7 +39,7 @@
 - thread_id / session_id isolation (https://www.xbstack.com/ai/langgraph-thread-session-state-isolation/?utm_source=github&utm_medium=readme&utm_campaign=langgraph_state_isolation)
 - Checkpointer recovery
 - Human-in-the-loop workflow
-- Multi-agent observability
+- Multi-agent observability (https://www.xbstack.com/ai/langgraph-observability-agent-trace/?utm_source=github&utm_medium=readme&utm_campaign=langgraph_observability)
 
 ---
 ## 🚀 Building in Public

@@ -11,6 +11,7 @@
 ## ✍️ 个人博客最新动态 (Latest from XBSTACK)
 
 <!-- BLOG-POST-LIST:START -->
+- [LangGraph Observability in Practice: Tracing AI Agent Decision Paths (圣经级实战)](https://xbstack.com/ai/langgraph-observability-agent-trace/)
 - [LangGraph Memory and Checkpointing for Production AI Agents: Stateful Persistence & Recovery (圣经级实战)](https://xbstack.com/ai/langgraph-memory-checkpointing-production-agents/)
 - [How to Build an AI Expense Approval Agent: Automating Business Governance (圣经级实战)](https://xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/)
 - [AI Sales Assistant vs AI Lead Scoring Agent: Choosing Your Revenue Engine (圣经级实战)](https://xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/)
