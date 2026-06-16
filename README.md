@@ -11,12 +11,11 @@
 ## ✍️ 个人博客最新动态 (Latest from XBSTACK)
 
 <!-- BLOG-POST-LIST:START -->
-- [LangGraph Observability in Practice: Tracing AI Agent Decision Paths (圣经级实战)](https://xbstack.com/ai/langgraph-observability-agent-trace/)
-- [LangGraph Memory and Checkpointing for Production AI Agents: Stateful Persistence & Recovery (圣经级实战)](https://xbstack.com/ai/langgraph-memory-checkpointing-production-agents/)
-- [How to Build an AI Expense Approval Agent: Automating Business Governance (圣经级实战)](https://xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/)
-- [AI Sales Assistant vs AI Lead Scoring Agent: Choosing Your Revenue Engine (圣经级实战)](https://xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/)
-- [Building a Production-Ready AI Trading Agent: Real-time Technical Analysis with LongBridge API (圣经级实战)](https://xbstack.com/ai/how-to-build-ai-trading-agent/)
-- [Automating Customer Feedback Loops with AI Agents: A Full-Stack Implementation Guide (圣经级实战)](https://xbstack.com/ai/automating-customer-feedback-loops-ai-agents/)
+- [LangGraph Subgraph 实战：子图、Worker State 与多 Agent 局部状态怎么设计？](https://www.xbstack.com/ai/langgraph-subgraph-worker-state/)
+- [LangGraph Checkpointer 实战：MemorySaver、SQLite、Redis 怎么选？](https://www.xbstack.com/ai/langgraph-checkpointer-memory-sqlite-redis/)
+- [LangGraph Observability 实战：如何追踪每个 Agent 的决策路径？](https://www.xbstack.com/ai/langgraph-observability-agent-trace/)
+- [LangGraph 多智能体失败恢复：Tool Error、Timeout 与重试策略](https://www.xbstack.com/ai/langgraph-agent-error-recovery-retry-timeout/)
+- [LangGraph Human-in-the-loop 实战：多智能体审批流怎么做？](https://www.xbstack.com/ai/langgraph-human-in-the-loop-approval/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
