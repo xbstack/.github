@@ -27,7 +27,7 @@
 ## 🆕 Latest Articles
 
 - [n8n Queue Mode + Redis 实战：什么时候需要把工作流拆到队列里？](https://www.xbstack.com/ai/n8n-queue-mode-redis-worker/) (2026-06-17)
-- [n8n AI Workflow 生产化：错误处理、重试与成本监控的终极指南](https://www.xbstack.com/ai/n8n-ai-workflow-error-handling/) (2026-06-17)
+- [n8n AI Workflow 生产化：错误处理、重试、超时与成本监控](https://www.xbstack.com/ai/n8n-ai-workflow-error-handling/) (2026-06-17)
 - [LangGraph Subgraph 实战：子图、Worker State 与多 Agent 局部状态怎么设计？](https://www.xbstack.com/ai/langgraph-subgraph-worker-state/) (2026-06-16)
 - [我现在不写书评了：一个程序员如何把读书变成决策系统](https://www.xbstack.com/horizon/reading-system-for-independent-developer/) (2026-06-16)
 - [LangGraph Checkpointer 实战：MemorySaver、SQLite、Redis 怎么选？](https://www.xbstack.com/ai/langgraph-checkpointer-memory-sqlite-redis/) (2026-06-15)
