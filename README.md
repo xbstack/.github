@@ -11,11 +11,11 @@
 ## ✍️ 个人博客最新动态 (Latest from XBSTACK)
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM JSON Schema 实战：如何让 AI 稳定输出财报收入、现金流和风险因素？](https://www.xbstack.com/ai/llm-json-schema-financial-report-extraction/)
+- [财报 PDF 表格解析实战：如何避免 AI 把收入、现金流和风险因素看错？](https://www.xbstack.com/ai/financial-report-pdf-table-extraction/)
+- [AI 财报助手技术实现：如何把财报 PDF 拆成结构化风险检查清单？](https://www.xbstack.com/ai/ai-financial-report-implementation/)
+- [用 AI 分析财报的 7 个步骤：从 PDF 到风险检查清单](https://www.xbstack.com/ai/ai-finance-report-7-steps/)
 - [n8n Queue Mode + Redis 实战：什么时候需要把工作流拆到队列里？](https://www.xbstack.com/ai/n8n-queue-mode-redis-worker/)
-- [n8n AI Workflow 生产化：错误处理、重试、超时与成本监控](https://www.xbstack.com/ai/n8n-ai-workflow-error-handling/)
-- [LangGraph Subgraph 实战：子图、Worker State 与多 Agent 局部状态怎么设计？](https://www.xbstack.com/ai/langgraph-subgraph-worker-state/)
-- [我现在不写书评了：一个程序员如何把读书变成决策系统](https://www.xbstack.com/horizon/reading-system-for-independent-developer/)
-- [LangGraph Checkpointer 实战：MemorySaver、SQLite、Redis 怎么选？](https://www.xbstack.com/ai/langgraph-checkpointer-memory-sqlite-redis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
