@@ -11,11 +11,11 @@
 ## ✍️ 个人博客最新动态 (Latest from XBSTACK)
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 财报助手评测体系：如何用 Golden Dataset 发现 LLM 是否看错财报？](https://www.xbstack.com/ai/ai-financial-report-evaluation-golden-dataset/)
 - [LLM JSON Schema 实战：如何让 AI 稳定输出财报收入、现金流和风险因素？](https://www.xbstack.com/ai/llm-json-schema-financial-report-extraction/)
 - [财报 PDF 表格解析实战：如何避免 AI 把收入、现金流和风险因素看错？](https://www.xbstack.com/ai/financial-report-pdf-table-extraction/)
 - [AI 财报助手技术实现：如何把财报 PDF 拆成结构化风险检查清单？](https://www.xbstack.com/ai/ai-financial-report-implementation/)
 - [用 AI 分析财报的 7 个步骤：从 PDF 到风险检查清单](https://www.xbstack.com/ai/ai-finance-report-7-steps/)
-- [n8n Queue Mode + Redis 实战：什么时候需要把工作流拆到队列里？](https://www.xbstack.com/ai/n8n-queue-mode-redis-worker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
