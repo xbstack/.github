@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 
+- [AI 财报助手任务队列实战：PDF 解析、LLM 调用和进度回传怎么设计？](https://www.xbstack.com/ai/ai-financial-report-task-queue/) (2026-06-24)
 - [AI 财报助手评测体系：如何用 Golden Dataset 发现 LLM 是否看错财报？](https://www.xbstack.com/ai/ai-financial-report-evaluation-golden-dataset/) (2026-06-23)
 - [LLM JSON Schema 实战：如何让 AI 稳定输出财报收入、现金流和风险因素？](https://www.xbstack.com/ai/llm-json-schema-financial-report-extraction/) (2026-06-22)
 - [财报 PDF 表格解析实战：如何避免 AI 把收入、现金流和风险因素看错？](https://www.xbstack.com/ai/financial-report-pdf-table-extraction/) (2026-06-21)
 - [AI 财报助手技术实现：如何把财报 PDF 拆成结构化风险检查清单？](https://www.xbstack.com/ai/ai-financial-report-implementation/) (2026-06-20)
-- [用 AI 分析财报的 7 个步骤：从 PDF 到风险检查清单](https://www.xbstack.com/ai/ai-finance-report-7-steps/) (2026-06-19)
 
 ---
 ## LangGraph Production Notes
