@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 
+- [AI Agent Architecture 实战：从 Prompt 到生产级智能体系统的架构设计](https://www.xbstack.com/ai/ai-agent-architecture/) (2026-06-24)
+- [AI 客服智能体生产化实战：意图路由、工具调用、RAG 与人工升级闭环](https://www.xbstack.com/ai/ai-agent-customer-support-automation/) (2026-06-24)
 - [AI 财报助手任务队列实战：PDF 解析、LLM 调用和进度回传怎么设计？](https://www.xbstack.com/ai/ai-financial-report-task-queue/) (2026-06-24)
 - [AI 财报助手评测体系：如何用 Golden Dataset 发现 LLM 是否看错财报？](https://www.xbstack.com/ai/ai-financial-report-evaluation-golden-dataset/) (2026-06-23)
 - [LLM JSON Schema 实战：如何让 AI 稳定输出财报收入、现金流和风险因素？](https://www.xbstack.com/ai/llm-json-schema-financial-report-extraction/) (2026-06-22)
-- [财报 PDF 表格解析实战：如何避免 AI 把收入、现金流和风险因素看错？](https://www.xbstack.com/ai/financial-report-pdf-table-extraction/) (2026-06-21)
-- [AI 财报助手技术实现：如何把财报 PDF 拆成结构化风险检查清单？](https://www.xbstack.com/ai/ai-financial-report-implementation/) (2026-06-20)
 
 ---
 ## LangGraph Production Notes
