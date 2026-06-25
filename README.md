@@ -11,11 +11,11 @@
 ## ✍️ 个人博客最新动态 (Latest from XBSTACK)
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent 协议与框架选型：MCP、Function Calling、A2A、LangGraph、AutoGen、CrewAI 怎么选？](https://www.xbstack.com/ai/ai-agent-protocols-and-frameworks/)
 - [AI 库存预测智能体实战：销量预测、缺货预警、补货建议与供应链复盘](https://www.xbstack.com/ai/how-to-build-ai-inventory-forecasting-agent/)
 - [AI 开发者工程 Agents：代码审查、Issue Triage、日志分析与生产运维闭环](https://www.xbstack.com/ai/ai-developer-operations-agents/)
 - [AI 财务自动化 Agents：费用、发票、采购、供应商、合同与审计治理架构](https://www.xbstack.com/ai/ai-finance-automation-agents/)
 - [AI 客户运营 Agents：客服、工单、邮件、CRM、客户反馈与增长闭环](https://www.xbstack.com/ai/ai-customer-operations-agents/)
-- [AI 文档理解 Agents：PDF 解析、RAG 知识库、合同审查、研究与审计证据链](https://www.xbstack.com/ai/ai-document-intelligence-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
