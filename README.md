@@ -12,10 +12,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI 库存预测智能体实战：销量预测、缺货预警、补货建议与供应链复盘](https://www.xbstack.com/ai/how-to-build-ai-inventory-forecasting-agent/)
+- [AI 财务自动化 Agents：费用、发票、采购、供应商、合同与审计治理架构](https://www.xbstack.com/ai/ai-finance-automation-agents/)
+- [AI 客户运营 Agents：客服、工单、邮件、CRM、客户反馈与增长闭环](https://www.xbstack.com/ai/ai-customer-operations-agents/)
 - [AI 电商售后智能体实战：订单查询、退款换货、物流异常与人工升级闭环](https://www.xbstack.com/ai/how-to-build-ai-ecommerce-support-agent/)
 - [AI Agent Architecture 实战：从 Prompt 到生产级智能体系统的架构设计](https://www.xbstack.com/ai/ai-agent-architecture/)
-- [AI 客服智能体生产化实战：意图路由、工具调用、RAG 与人工升级闭环](https://www.xbstack.com/ai/ai-agent-customer-support-automation/)
-- [AI 财报助手任务队列实战：PDF 解析、LLM 调用和进度回传怎么设计？](https://www.xbstack.com/ai/ai-financial-report-task-queue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
