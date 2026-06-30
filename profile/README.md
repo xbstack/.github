@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 
+- [ChatGPT 生成文章配图后，如何自动导入 Astro 内容站？](https://www.xbstack.com/ai/chatgpt-image-to-astro-cover-bridge/) (2026-06-30)
 - [个人网站写到 160 篇，我才发现没流量的原因：不是不会 SEO，而是内容越写越乱](https://www.xbstack.com/ai/xbstack-content-quality-audit-builder-log/) (2026-06-28)
 - [n8n Webhook 生产化实战：Header Auth、Raw Body、WEBHOOK_URL 与反向代理排查](https://www.xbstack.com/ai/n8n-webhook-production-hardening/) (2026-06-26)
 - [AI Agent 协议与框架选型：MCP、Function Calling、A2A、LangGraph、AutoGen、CrewAI 怎么选？](https://www.xbstack.com/ai/ai-agent-protocols-and-frameworks/) (2026-06-25)
 - [AI 库存预测智能体实战：销量预测、缺货预警、补货建议与供应链复盘](https://www.xbstack.com/ai/how-to-build-ai-inventory-forecasting-agent/) (2026-06-25)
-- [AI 开发者工程 Agents：代码审查、Issue Triage、日志分析与生产运维闭环](https://www.xbstack.com/ai/ai-developer-operations-agents/) (2026-06-25)
 
 ---
 ## LangGraph Production Notes
