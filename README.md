@@ -11,11 +11,11 @@
 ## ✍️ 个人博客最新动态 (Latest from XBSTACK)
 
 <!-- BLOG-POST-LIST:START -->
+- [站外分发带不来流量？我给 XBSTACK 补了一套 UTM 追踪闭环](https://www.xbstack.com/ai/xbstack-utm-distribution-tracking/)
 - [Search Console 有曝光没点击，我才发现问题不在收录，而在标题和入口](https://www.xbstack.com/ai/search-console-ctr-title-fix/)
 - [个人网站 404 暴增，我才发现问题不在代码，而在外链路径](https://www.xbstack.com/ai/xbstack-404-cloudflare-astro-route-fix/)
 - [n8n AI Starter Kit：从 Gmail、Slack、Notion 到自托管的入门路线](https://www.xbstack.com/ai/n8n-ai-starter-kit/)
 - [ChatGPT 生成文章配图后，如何自动导入 Astro 内容站？](https://www.xbstack.com/ai/chatgpt-image-to-astro-cover-bridge/)
-- [个人网站写到 160 篇，我才发现没流量的原因：不是不会 SEO，而是内容越写越乱](https://www.xbstack.com/ai/xbstack-content-quality-audit-builder-log/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
