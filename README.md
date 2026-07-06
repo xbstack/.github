@@ -20,6 +20,12 @@
 
 ---
 
+## 📚 AI 全量文章索引
+
+- [XBSTACK AI Guides Index：查看全部 AI Agent、MCP、LangGraph、n8n 与 Workflow 文章](./AI_GUIDES.md)
+
+---
+
 ## 🛠️ 项目矩阵
 
 * **[myblogAdmin](https://github.com/xbstack/myblogAdmin)**: 核心内容管理与 AI 工作流。

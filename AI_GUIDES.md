@@ -1,0 +1,143 @@
+# XBSTACK AI Guides Index
+
+> Full AI article index for XBSTACK. Every outbound article link carries GitHub UTM parameters for traffic attribution.
+
+Total AI guides: **131**
+
+## Latest AI Articles
+
+- [XBSTACK 全站架构深度拆解：构建高并发业务自动化场景 (Business Automation)](https://www.xbstack.com/ai/xbstack-architecture/?utm_source=github&utm_medium=ai_guides&utm_campaign=xbstack_architecture) — 2026-07-06
+- [n8n AI Starter Kit：Gmail、Slack、Notion、自托管与生产化路线](https://www.xbstack.com/ai/n8n-ai-starter-kit/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_ai_starter_kit) — 2026-07-06
+- [MCP vs Function Calling：区别、适用场景与真实项目怎么选？](https://www.xbstack.com/ai/mcp-vs-function-calling/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_vs_function_calling) — 2026-07-06
+- [LangGraph Memory 与 Checkpointing：生产级 AI Agent 如何保存、恢复和审计状态？](https://www.xbstack.com/ai/langgraph-memory-checkpointing-production-agents/?utm_source=github&utm_medium=ai_guides&utm_campaign=langgraph_memory_checkpointing_production_agents) — 2026-07-06
+- [2026 AI 开发实战：拆解 LangChain + Next.js 模板的物理架构](https://www.xbstack.com/ai/langchain-nextjs-template-analysis/?utm_source=github&utm_medium=ai_guides&utm_campaign=langchain_nextjs_template_analysis) — 2026-07-06
+- [AI 采购发票匹配智能体实战：PO、收货单、发票 3-Way Match 与异常审批闭环](https://www.xbstack.com/ai/how-to-build-an-ai-procurement-invoice-matching-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_an_ai_procurement_invoice_matching_agent) — 2026-07-06
+- [AI 费用审批智能体实战：费用政策校验、预算控制、审批矩阵与审计闭环](https://www.xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_an_ai_expense_approval_agent) — 2026-07-06
+- [AI 研究智能体实战：论文检索、证据抽取、引用审计与研究知识库闭环](https://www.xbstack.com/ai/how-to-build-ai-research-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_research_agent) — 2026-07-06
+- [AI 合同审查智能体实战：条款抽取、风险标注、版本比对与法务复核闭环](https://www.xbstack.com/ai/how-to-build-ai-contract-review-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_contract_review_agent) — 2026-07-06
+- [AI 日志分析智能体实战：异常聚类、根因定位、Runbook 匹配与故障复盘闭环](https://www.xbstack.com/ai/ai-log-analysis-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_log_analysis_agent) — 2026-07-06
+- [AI Agent Observability 实战：Trace、Tool Call、状态、成本与质量监控体系](https://www.xbstack.com/ai/ai-agent-observability/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_observability) — 2026-07-06
+- [2026 AI Agent 开发手册：协议选型、工具调用、状态管理与多智能体落地清单](https://www.xbstack.com/ai/ai-agent-full-handbook/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_full_handbook) — 2026-07-06
+- [AI Agent 全栈指南 2026：从架构、工具调用到评估部署的生产化路线图](https://www.xbstack.com/ai/ai-agent-complete-guide/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_complete_guide) — 2026-07-06
+- [AutoGen 实战教程：多智能体对话协作、工具调用与生产化边界](https://www.xbstack.com/ai/ai-agent-autogen-tutorial/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_autogen_tutorial) — 2026-07-06
+- [个人网站发布前数据质检：GSC、GA4、404 和产品证据怎么判断够不够？](https://www.xbstack.com/ai/xbstack-pre-release-data-support-audit/?utm_source=github&utm_medium=ai_guides&utm_campaign=xbstack_pre_release_data_support_audit) — 2026-07-05
+- [站外分发带不来流量？我给 XBSTACK 补了一套 UTM 追踪闭环](https://www.xbstack.com/ai/xbstack-utm-distribution-tracking/?utm_source=github&utm_medium=ai_guides&utm_campaign=xbstack_utm_distribution_tracking) — 2026-07-04
+- [Search Console 有曝光没点击，我才发现问题不在收录，而在标题和入口](https://www.xbstack.com/ai/search-console-ctr-title-fix/?utm_source=github&utm_medium=ai_guides&utm_campaign=search_console_ctr_title_fix) — 2026-07-03
+- [个人网站 404 暴增，我才发现问题不在代码，而在外链路径](https://www.xbstack.com/ai/xbstack-404-cloudflare-astro-route-fix/?utm_source=github&utm_medium=ai_guides&utm_campaign=xbstack_404_cloudflare_astro_route_fix) — 2026-07-02
+- [ChatGPT 生成文章配图后，如何自动导入 Astro 内容站？](https://www.xbstack.com/ai/chatgpt-image-to-astro-cover-bridge/?utm_source=github&utm_medium=ai_guides&utm_campaign=chatgpt_image_to_astro_cover_bridge) — 2026-06-30
+- [个人网站写到 160 篇，我才发现没流量的原因：不是不会 SEO，而是内容越写越乱](https://www.xbstack.com/ai/xbstack-content-quality-audit-builder-log/?utm_source=github&utm_medium=ai_guides&utm_campaign=xbstack_content_quality_audit_builder_log) — 2026-06-28
+- [n8n Webhook 生产化实战：Header Auth、Raw Body、WEBHOOK_URL 与反向代理排查](https://www.xbstack.com/ai/n8n-webhook-production-hardening/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_webhook_production_hardening) — 2026-06-26
+- [MCP Server 生产化治理：远程部署、OAuth、权限边界、观测与多用户隔离](https://www.xbstack.com/ai/mcp-server-production-governance/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_server_production_governance) — 2026-06-25
+- [AI 库存预测智能体实战：销量预测、缺货预警、补货建议与供应链复盘](https://www.xbstack.com/ai/how-to-build-ai-inventory-forecasting-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_inventory_forecasting_agent) — 2026-06-25
+- [AI 电商售后智能体实战：订单查询、退款换货、物流异常与人工升级闭环](https://www.xbstack.com/ai/how-to-build-ai-ecommerce-support-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_ecommerce_support_agent) — 2026-06-25
+- [AI Workflow Automation 生产化：n8n、Webhook、Queue、凭证、安全与成本监控](https://www.xbstack.com/ai/ai-workflow-automation-production/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_workflow_automation_production) — 2026-06-25
+- [AI 财务自动化 Agents：费用、发票、采购、供应商、合同与审计治理架构](https://www.xbstack.com/ai/ai-finance-automation-agents/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_finance_automation_agents) — 2026-06-25
+- [AI 文档理解 Agents：PDF 解析、RAG 知识库、合同审查、研究与审计证据链](https://www.xbstack.com/ai/ai-document-intelligence-agents/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_document_intelligence_agents) — 2026-06-25
+- [AI 开发者工程 Agents：代码审查、Issue Triage、日志分析与生产运维闭环](https://www.xbstack.com/ai/ai-developer-operations-agents/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_developer_operations_agents) — 2026-06-25
+- [AI 客户运营 Agents：客服、工单、邮件、CRM、客户反馈与增长闭环](https://www.xbstack.com/ai/ai-customer-operations-agents/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_customer_operations_agents) — 2026-06-25
+- [AI Agent 协议与框架选型：MCP、Function Calling、A2A、LangGraph、AutoGen、CrewAI 怎么选？](https://www.xbstack.com/ai/ai-agent-protocols-and-frameworks/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_protocols_and_frameworks) — 2026-06-25
+- [AI Agent 生产化治理：评估、可观测性、部署、成本控制与人工审批闭环](https://www.xbstack.com/ai/ai-agent-production-governance/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_production_governance) — 2026-06-25
+- [AI 财报助手任务队列实战：PDF 解析、LLM 调用和进度回传怎么设计？](https://www.xbstack.com/ai/ai-financial-report-task-queue/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_financial_report_task_queue) — 2026-06-24
+- [AI 客服智能体生产化实战：意图路由、工具调用、RAG 与人工升级闭环](https://www.xbstack.com/ai/ai-agent-customer-support-automation/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_customer_support_automation) — 2026-06-24
+- [AI Agent Architecture 实战：从 Prompt 到生产级智能体系统的架构设计](https://www.xbstack.com/ai/ai-agent-architecture/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_architecture) — 2026-06-24
+- [AI 财报助手评测体系：如何用 Golden Dataset 发现 LLM 是否看错财报？](https://www.xbstack.com/ai/ai-financial-report-evaluation-golden-dataset/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_financial_report_evaluation_golden_dataset) — 2026-06-23
+- [LLM JSON Schema 实战：如何让 AI 稳定输出财报收入、现金流和风险因素？](https://www.xbstack.com/ai/llm-json-schema-financial-report-extraction/?utm_source=github&utm_medium=ai_guides&utm_campaign=llm_json_schema_financial_report_extraction) — 2026-06-22
+- [财报 PDF 表格解析实战：如何避免 AI 把收入、现金流和风险因素看错？](https://www.xbstack.com/ai/financial-report-pdf-table-extraction/?utm_source=github&utm_medium=ai_guides&utm_campaign=financial_report_pdf_table_extraction) — 2026-06-21
+- [AI 财报助手技术实现：如何把财报 PDF 拆成结构化风险检查清单？](https://www.xbstack.com/ai/ai-financial-report-implementation/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_financial_report_implementation) — 2026-06-20
+- [用 AI 分析财报的 7 个步骤：从 PDF 到风险检查清单](https://www.xbstack.com/ai/ai-finance-report-7-steps/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_finance_report_7_steps) — 2026-06-19
+- [n8n Queue Mode + Redis 实战：什么时候需要把工作流拆到队列里？](https://www.xbstack.com/ai/n8n-queue-mode-redis-worker/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_queue_mode_redis_worker) — 2026-06-17
+- [n8n AI Workflow 生产化：错误处理、重试、超时与成本监控](https://www.xbstack.com/ai/n8n-ai-workflow-error-handling/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_ai_workflow_error_handling) — 2026-06-17
+- [LangGraph Subgraph 实战：子图、Worker State 与多 Agent 局部状态怎么设计？](https://www.xbstack.com/ai/langgraph-subgraph-worker-state/?utm_source=github&utm_medium=ai_guides&utm_campaign=langgraph_subgraph_worker_state) — 2026-06-16
+- [LangGraph Checkpointer 实战：MemorySaver、SQLite、Redis 怎么选？](https://www.xbstack.com/ai/langgraph-checkpointer-memory-sqlite-redis/?utm_source=github&utm_medium=ai_guides&utm_campaign=langgraph_checkpointer_memory_sqlite_redis) — 2026-06-15
+- [LangGraph Observability 实战：如何追踪每个 Agent 的决策路径？](https://www.xbstack.com/ai/langgraph-observability-agent-trace/?utm_source=github&utm_medium=ai_guides&utm_campaign=langgraph_observability_agent_trace) — 2026-06-14
+- [LangGraph 多智能体失败恢复：Tool Error、Timeout 与重试策略](https://www.xbstack.com/ai/langgraph-agent-error-recovery-retry-timeout/?utm_source=github&utm_medium=ai_guides&utm_campaign=langgraph_agent_error_recovery_retry_timeout) — 2026-06-13
+- [LangGraph Human-in-the-loop 实战：多智能体审批流怎么做？](https://www.xbstack.com/ai/langgraph-human-in-the-loop-approval/?utm_source=github&utm_medium=ai_guides&utm_campaign=langgraph_human_in_the_loop_approval) — 2026-06-12
+- [LangGraph 状态隔离实战：thread_id、session_id、user_id 怎么设计？](https://www.xbstack.com/ai/langgraph-thread-session-state-isolation/?utm_source=github&utm_medium=ai_guides&utm_campaign=langgraph_thread_session_state_isolation) — 2026-06-11
+- [LangGraph 多智能体协作实战：Supervisor、Worker 与状态交接怎么设计？](https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/?utm_source=github&utm_medium=ai_guides&utm_campaign=langgraph_supervisor_worker_handoff) — 2026-06-10
+- [MCP OAuth 认证实战：远程 MCP Server 为什么不能裸奔？](https://www.xbstack.com/ai/mcp-oauth-authentication/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_oauth_authentication) — 2026-06-09
+- [MCP Streamable HTTP 实战：从本地 stdio Server 到远程 MCP 服务部署](https://www.xbstack.com/ai/mcp-streamable-http-deployment/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_streamable_http_deployment) — 2026-06-06
+- [MCP Server 实战：让 Claude 访问本地 SQLite 的 5 个步骤与避坑手册](https://www.xbstack.com/ai/mcp-server-sqlite/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_server_sqlite) — 2026-06-05
+- [MCP Filesystem Server 实战：让 Claude / Cursor 安全读取本地文件](https://www.xbstack.com/ai/mcp-filesystem-server/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_filesystem_server) — 2026-06-05
+- [MCP JSON-RPC parse error 怎么排查：解决 Claude 与 Cursor 连接失败的 5 个关键步骤](https://www.xbstack.com/ai/mcp-json-rpc-parse-error/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_json_rpc_parse_error) — 2026-06-04
+- [MCP Tool Call Result Truncated 怎么解决：深度拆解 Stdio 缓冲区与语义压缩实战](https://www.xbstack.com/ai/mcp-tool-call-truncated-fix/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_tool_call_truncated_fix) — 2026-06-03
+- [MCP 安全治理实战：Tool Scope、allowedRoots、只读账号与审计日志](https://www.xbstack.com/ai/mcp-security-best-practices/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_security_best_practices) — 2026-06-03
+- [MCP Stdio 污染怎么处理：为什么 Claude / Cursor 读取不到你的 Server 输出](https://www.xbstack.com/ai/mcp-stdio-pollution-guide/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_stdio_pollution_guide) — 2026-06-02
+- [n8n AI Workflow 实战：Slack 每日摘要机器人](https://www.xbstack.com/ai/n8n-ai-slack-daily-digest-bot/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_ai_slack_daily_digest_bot) — 2026-05-30
+- [n8n AI Workflow 实战：Gmail 邮件摘要自动写入 Google Sheets](https://www.xbstack.com/ai/n8n-ai-gmail-summarizer-openai-google-sheets/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_ai_gmail_summarizer_openai_google_sheets) — 2026-05-30
+- [Self-hosted n8n AI Workflow 实战：Docker、Postgres、VPS 与 NAS 部署指南](https://www.xbstack.com/ai/self-hosted-n8n-ai-workflows/?utm_source=github&utm_medium=ai_guides&utm_campaign=self_hosted_n8n_ai_workflows) — 2026-05-28
+- [n8n AI Workflow 实战：构建 Notion 知识库智能体与多级检索自愈](https://www.xbstack.com/ai/n8n-ai-notion-knowledge-base-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_ai_notion_knowledge_base_agent) — 2026-05-27
+- [MCP 文件与数据网关实战：Resources、Tools、Prompts 与安全沙箱](https://www.xbstack.com/ai/mcp-protocol-deep-dive/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_protocol_deep_dive) — 2026-05-24
+- [AI 销售助手 vs 线索评分智能体：构建自动化收入引擎实战/深度对比](https://www.xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_sales_assistant_vs_lead_scoring) — 2026-05-21
+- [AI 客服自动化 vs 工单路由智能体：高并发支持工作流实战/深度对比](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_customer_support_vs_ai_ticket_routing_agent) — 2026-05-20
+- [AI 供应商管理智能体实战：供应商准入、采购合规、ERP 对接与审计闭环](https://www.xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_an_ai_vendor_management_agent) — 2026-05-19
+- [CrewAI vs AutoGen：2026 年多智能体编排框架深度对标](https://www.xbstack.com/ai/crewai-vs-autogen-for-workflow-automation/?utm_source=github&utm_medium=ai_guides&utm_campaign=crewai_vs_autogen_for_workflow_automation) — 2026-05-19
+- [Zapier vs Make vs n8n：2026 AI 自动化工作流选型指南 (Comparison)](https://www.xbstack.com/ai/zapier-vs-make-vs-n8n-for-ai-workflow-automation/?utm_source=github&utm_medium=ai_guides&utm_campaign=zapier_vs_make_vs_n8n_for_ai_workflow_automation) — 2026-05-18
+- [AI 发票审批智能体实战：发票解析、重复检测、审批矩阵与付款前控制](https://www.xbstack.com/ai/how-to-build-an-ai-invoice-approval-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_an_ai_invoice_approval_agent) — 2026-05-18
+- [AI 财务审计智能体实战：财报解析、勾稽检查、风险证据链与人工复核](https://www.xbstack.com/ai/how-to-build-ai-financial-audit-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_financial_audit_agent) — 2026-05-18
+- [n8n vs Make: AI工作流选型与10倍成本节省实战](https://www.xbstack.com/ai/n8n-vs-make-ai-workflow-automation/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_vs_make_ai_workflow_automation) — 2026-05-17
+- [AI 知识库智能体生产化实战：知识治理、权限控制、引用审计与反馈闭环](https://www.xbstack.com/ai/ai-knowledge-base-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_knowledge_base_agent) — 2026-05-17
+- [LangChain vs CrewAI：多智能体编排框架的 6 个选型差异](https://www.xbstack.com/ai/langchain-vs-crewai-for-ai-agents/?utm_source=github&utm_medium=ai_guides&utm_campaign=langchain_vs_crewai_for_ai_agents) — 2026-05-16
+- [AI 工单路由智能体生产化实战：多渠道分流、SLA 优先级与人工升级闭环](https://www.xbstack.com/ai/ai-ticket-routing-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_ticket_routing_agent) — 2026-05-16
+- [AI Lead Scoring Agent 实战：意图识别、线索评分、CRM 路由与销售反馈闭环](https://www.xbstack.com/ai/how-to-build-ai-lead-scoring-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_lead_scoring_agent) — 2026-05-15
+- [CrewAI vs LangGraph：AI Agent 编排选型的 5 个核心考量](https://www.xbstack.com/ai/crewai-vs-langgraph-for-ai-workflows/?utm_source=github&utm_medium=ai_guides&utm_campaign=crewai_vs_langgraph_for_ai_workflows) — 2026-05-15
+- [Best AI Agents for CRM Automation 2026：销售线索、客户跟进、CRM 数据与自动化选型框架](https://www.xbstack.com/ai/best-ai-agents-crm-automation/?utm_source=github&utm_medium=ai_guides&utm_campaign=best_ai_agents_crm_automation) — 2026-05-14
+- [Zapier vs AI Agents 2026：确定性工作流与语义智能体怎么选](https://www.xbstack.com/ai/zapier-vs-ai-agents-2026/?utm_source=github&utm_medium=ai_guides&utm_campaign=zapier_vs_ai_agents_2026) — 2026-05-13
+- [AI Expense Tracking Agent 实战：账单分类、订阅识别、异常消费与预算复盘](https://www.xbstack.com/ai/how-to-build-ai-expense-tracking-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_expense_tracking_agent) — 2026-05-13
+- [2026 AI 客服 Agent 选型指南：Zendesk、Intercom Fin、Freshdesk 与企业客服自动化评估框架](https://www.xbstack.com/ai/best-ai-support-agents-2026/?utm_source=github&utm_medium=ai_guides&utm_campaign=best_ai_support_agents_2026) — 2026-05-12
+- [OpenAI Assistants API vs. Custom AI Agent: 2026 架构选型终极指南](https://www.xbstack.com/ai/openai-assistants-api-vs-custom-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=openai_assistants_api_vs_custom_agent) — 2026-05-11
+- [AI 会议纪要智能体生产化实战：语音转写、决策提取、任务分配与 Notion 闭环](https://www.xbstack.com/ai/how-to-build-ai-meeting-summarization-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_meeting_summarization_agent) — 2026-05-09
+- [AI 文档分析智能体实战：PDF 解析、表格抽取、引用定位与人工复核闭环](https://www.xbstack.com/ai/comparison-of-ai-document-analysis-agents/?utm_source=github&utm_medium=ai_guides&utm_campaign=comparison_of_ai_document_analysis_agents) — 2026-05-09
+- [AI 简历筛选智能体生产化实战：语义评估、评分解释与人工复核流程](https://www.xbstack.com/ai/ai-resume-screening-agent-tutorial/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_resume_screening_agent_tutorial) — 2026-05-09
+- [2026 AI 代码审查智能体实战：PR Diff、仓库上下文、安全扫描与人工 Review 闭环](https://www.xbstack.com/ai/ai-code-review-agent-comparison/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_code_review_agent_comparison) — 2026-05-09
+- [AI 交易智能体实战：行情监控、策略回测、风险控制与人工确认闭环](https://www.xbstack.com/ai/how-to-build-ai-trading-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_trading_agent) — 2026-05-08
+- [AI 客户反馈智能体实战：主题聚类、情绪原因识别、优先级分派与闭环复盘](https://www.xbstack.com/ai/how-to-build-ai-customer-feedback-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_customer_feedback_agent) — 2026-05-08
+- [AI Agent vs Workflow Automation：为什么 AI 智能体将取代传统 RPA？](https://www.xbstack.com/ai/ai-agent-vs-workflow-automation/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_vs_workflow_automation) — 2026-05-04
+- [MCP vs A2A vs Function Calling：AI Agent 协议选型与系统集成指南](https://www.xbstack.com/ai/ai-agent-protocol-ecosystem/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_protocol_ecosystem) — 2026-05-04
+- [GitHub Issue Triage Agent 实战：Issue 分类、重复检测、优先级与 Owner 分派闭环](https://www.xbstack.com/ai/ai-github-issue-triage-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_github_issue_triage_agent) — 2026-05-02
+- [AI 邮件智能体生产化实战：收件箱摘要、优先级判断、草稿回复与发送审批](https://www.xbstack.com/ai/how-to-build-ai-email-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_ai_email_agent) — 2026-04-30
+- [AI 内容运营工作流实战：选题校验、SEO/GEO 结构化与人工质检闭环](https://www.xbstack.com/ai/ai-agent-seo-content-workflow/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_seo_content_workflow) — 2026-04-30
+- [AI Agent 记忆系统实现：解决智能体“断片”的 3 层架构与实战代码](https://www.xbstack.com/ai/ai-agent-memory-implementation/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_memory_implementation) — 2026-04-30
+- [AI Agent 数据分析实战教程：构建自动化金融研报与决策系统](https://www.xbstack.com/ai/how-to-use-ai-agents-for-data-analysis/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_use_ai_agents_for_data_analysis) — 2026-04-28
+- [AI Agent Evaluation 实战：任务成功率、工具调用、失败恢复与回归测试体系](https://www.xbstack.com/ai/ai-agent-evaluation-guide/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_evaluation_guide) — 2026-04-28
+- [Multi-Agent Planning 实战：任务拆解、动态路由、死锁与状态交接](https://www.xbstack.com/ai/multi-agent-planning/?utm_source=github&utm_medium=ai_guides&utm_campaign=multi_agent_planning) — 2026-04-27
+- [LangChain 实战教程：手把手构建具备工具调用能力的智能体](https://www.xbstack.com/ai/ai-agent-langchain-tutorial/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_langchain_tutorial) — 2026-04-25
+- [Multi-Agent Systems 实战：多智能体协作系统的架构边界、状态交接与失败控制](https://www.xbstack.com/ai/multi-agent-systems/?utm_source=github&utm_medium=ai_guides&utm_campaign=multi_agent_systems) — 2026-04-24
+- [MCP 协议边界指南：Client、Server、Tools、Resources 怎么分层？](https://www.xbstack.com/ai/mcp-protocol-guide/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_protocol_guide) — 2026-04-24
+- [AI 邮件路由智能体生产化实战：意图识别、优先级判断与工单分发闭环](https://www.xbstack.com/ai/ai-email-routing-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_email_routing_agent) — 2026-04-24
+- [LangGraph 实战：用状态机、Checkpoint 与 Human-in-the-loop 控制 Agent 工作流](https://www.xbstack.com/ai/ai-agent-workflow/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_workflow) — 2026-04-24
+- [AI Agent Tool Use 实战：工具注册、权限控制、参数校验与调用审计](https://www.xbstack.com/ai/ai-agent-tool-use/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_tool_use) — 2026-04-24
+- [AI Agent Security：防御提示词注入与工具滥用的安全全案](https://www.xbstack.com/ai/ai-agent-security/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_security) — 2026-04-24
+- [AI Agent SaaS 架构实战：多租户、额度计费、任务队列与成本控制](https://www.xbstack.com/ai/ai-agent-saas-mvp/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_saas_mvp) — 2026-04-24
+- [AI Agent RAG 实战：私域知识检索、工具调用、权限过滤与引用审计](https://www.xbstack.com/ai/ai-agent-rag-integration/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_rag_integration) — 2026-04-24
+- [AI Agent Planning 实战：任务拆解、计划校验、重规划与失败恢复](https://www.xbstack.com/ai/ai-agent-planning/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_planning) — 2026-04-24
+- [AI Agents 与未来工作 (2026)：从工具到数字伙伴的演进实战/深度对比](https://www.xbstack.com/ai/ai-agent-future-of-work/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_future_of_work) — 2026-04-24
+- [AI Agent 框架选型指南：LangChain / LangGraph、AutoGen、CrewAI 如何用于生产系统？](https://www.xbstack.com/ai/ai-agent-framework-comparison/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_framework_comparison) — 2026-04-24
+- [AI Agent Deployment 实战：任务队列、状态持久化、模型路由与高并发部署](https://www.xbstack.com/ai/ai-agent-deployment/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_deployment) — 2026-04-24
+- [AI Agent Memory System 实战：记忆分层、用户隔离、遗忘机制与长期状态管理](https://www.xbstack.com/ai/agent-memory-system/?utm_source=github&utm_medium=ai_guides&utm_campaign=agent_memory_system) — 2026-04-24
+- [Hermes Agent 深度解析：自愈记忆堆栈与长期一致性架构](https://www.xbstack.com/ai/hermes-agent-analysis/?utm_source=github&utm_medium=ai_guides&utm_campaign=hermes_agent_analysis) — 2026-04-17
+- [MCP Server 实战：用 SQLite 挂载私有数据，不再停留在协议概念](https://www.xbstack.com/ai/mcp-tutorial/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_tutorial) — 2026-04-11
+- [AI Workflow 实战：如何用 Cursor + Claude 构建 Lighthouse 满分站点](https://www.xbstack.com/ai/astro-100-score-practice/?utm_source=github&utm_medium=ai_guides&utm_campaign=astro_100_score_practice) — 2026-04-07
+- [AI Agent vs AI Assistant：深度对比从被动对话到自主执行的架构差异](https://www.xbstack.com/ai/ai-agent-vs-ai-assistant/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_agent_vs_ai_assistant) — 2026-03-27
+- [OpenClaw 安全沙箱架构：构建基于 MCP 协议的物理隔离 Agent](https://www.xbstack.com/ai/openclaw-mcp-sandbox-architecture/?utm_source=github&utm_medium=ai_guides&utm_campaign=openclaw_mcp_sandbox_architecture) — 2026-03-10
+- [2026 全栈生产力装机指南：构建主权个体的硬核工具矩阵](https://www.xbstack.com/ai/ultimate-setup/?utm_source=github&utm_medium=ai_guides&utm_campaign=ultimate_setup) — 2026-02-27
+- [XBSTACK V3 重构日志：构建高并发业务自动化场景 (Business Automation)](https://www.xbstack.com/ai/xbstack-v3-refactor/?utm_source=github&utm_medium=ai_guides&utm_campaign=xbstack_v3_refactor) — 2026-02-13
+- [Gemini 3 与 MCP 协议实战：构建本地 AI 财报审计系统的物理指南](https://www.xbstack.com/ai/gemini3-mcp-audit/?utm_source=github&utm_medium=ai_guides&utm_campaign=gemini3_mcp_audit) — 2026-02-10
+- [2026 AI 开发教程：MoltBot (ClawdBot) 从入门到生产级安全加固](https://www.xbstack.com/ai/clawdbot-tutorial/?utm_source=github&utm_medium=ai_guides&utm_campaign=clawdbot_tutorial) — 2026-01-29
+- [OpenClaw vs Hermes Agent：深度架构审计与 ARO 性能对撞](https://www.xbstack.com/ai/openclaw-vs-hermes/?utm_source=github&utm_medium=ai_guides&utm_campaign=openclaw_vs_hermes) — 2026-01-22
+- [Python 网格交易教程：手搓向量化回测引擎与 Docker 容器化实战](https://www.xbstack.com/ai/python-quant-backtest/?utm_source=github&utm_medium=ai_guides&utm_campaign=python_quant_backtest) — 2026-01-21
+- [XBSTACK Lighthouse 性能优化日志：构建高并发业务自动化场景 (Business Automation)](https://www.xbstack.com/ai/lighthouse-optimization-log/?utm_source=github&utm_medium=ai_guides&utm_campaign=lighthouse_optimization_log) — 2026-01-21
+- [Cloudflare Serverless 实战：构建零成本、全球加速的 AI 全栈架构](https://www.xbstack.com/ai/cloudflare-serverless-fullstack/?utm_source=github&utm_medium=ai_guides&utm_campaign=cloudflare_serverless_fullstack) — 2026-01-21
+- [Astro 相册实战：集成 PhotoSwipe 5 打造高性能全局预览系统](https://www.xbstack.com/ai/astro-gallery-practice/?utm_source=github&utm_medium=ai_guides&utm_campaign=astro_gallery_practice) — 2026-01-21
+- [AI 内容系统构建陷阱与反脆弱架构：实战/深度对比](https://www.xbstack.com/ai/ai-cms-pitfalls/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_cms_pitfalls) — 2026-01-21
+- [SEO 暴力美学实战：Astro 5.0 与 Python 自动化审计的全链路索引闭环](https://www.xbstack.com/ai/seo-brute-force-practice/?utm_source=github&utm_medium=ai_guides&utm_campaign=seo_brute_force_practice) — 2026-01-20
+- [Semantic Kernel 实战：构建工业级 AI 插件系统与 Planner 调度中枢](https://www.xbstack.com/ai/semantic-kernel-skills-practice/?utm_source=github&utm_medium=ai_guides&utm_campaign=semantic_kernel_skills_practice) — 2026-01-20
+- [OpenClaw Agent Framework：构建高并发分布式智能体集群](https://www.xbstack.com/ai/openclaw-analysis/?utm_source=github&utm_medium=ai_guides&utm_campaign=openclaw_analysis) — 2026-01-20
+- [RAG Agent 纠错闭环实战：检索验证、答案审计与 LangGraph 状态回滚](https://www.xbstack.com/ai/genai-agents-deep-dive/?utm_source=github&utm_medium=ai_guides&utm_campaign=genai_agents_deep_dive) — 2026-01-19
+- [GenAI Agents 实战教程：手把手构建自主文件管理智能体](https://www.xbstack.com/ai/genai-agents-tutorial/?utm_source=github&utm_medium=ai_guides&utm_campaign=genai_agents_tutorial) — 2026-01-17
+- [MCP vs Semantic Kernel：AI Tool 协议和企业 Agent 框架怎么选？](https://www.xbstack.com/ai/mcp-vs-semantic-kernel/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_vs_semantic_kernel) — 2026-01-16
+- [AI 财报助手实战：构建零偏见的个人资产审计系统](https://www.xbstack.com/ai/ai-finance-analysis-tool/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_finance_analysis_tool) — 2026-01-14
+- [2026 AI开发教程: XBSTACK 宣言：构建高并发业务自动化场景 (Business Automation)](https://www.xbstack.com/ai/xbstack-manifesto/?utm_source=github&utm_medium=ai_guides&utm_campaign=xbstack_manifesto) — 2026-01-12
+
+---
+
+[Back to XBSTACK](https://www.xbstack.com/?utm_source=github&utm_medium=ai_guides&utm_campaign=back_to_home)
