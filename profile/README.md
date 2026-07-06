@@ -26,11 +26,11 @@
 ...
 ## 🆕 Latest Articles
 
+- [个人网站发布前数据质检：GSC、GA4、404 和产品证据怎么判断够不够？](https://www.xbstack.com/ai/xbstack-pre-release-data-support-audit/) (2026-07-05)
 - [站外分发带不来流量？我给 XBSTACK 补了一套 UTM 追踪闭环](https://www.xbstack.com/ai/xbstack-utm-distribution-tracking/) (2026-07-04)
 - [Search Console 有曝光没点击，我才发现问题不在收录，而在标题和入口](https://www.xbstack.com/ai/search-console-ctr-title-fix/) (2026-07-03)
 - [个人网站 404 暴增，我才发现问题不在代码，而在外链路径](https://www.xbstack.com/ai/xbstack-404-cloudflare-astro-route-fix/) (2026-07-02)
-- [n8n AI Starter Kit：从 Gmail、Slack、Notion 到自托管的入门路线](https://www.xbstack.com/ai/n8n-ai-starter-kit/) (2026-07-01)
-- [ChatGPT 生成文章配图后，如何自动导入 Astro 内容站？](https://www.xbstack.com/ai/chatgpt-image-to-astro-cover-bridge/) (2026-06-30)
+- [n8n AI Starter Kit：Gmail、Slack、Notion、自托管与生产化路线](https://www.xbstack.com/ai/n8n-ai-starter-kit/) (2026-07-01)
 
 ---
 ## LangGraph Production Notes
