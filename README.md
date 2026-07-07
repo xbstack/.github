@@ -11,11 +11,11 @@
 ## ✍️ 个人博客最新动态 (Latest from XBSTACK)
 
 <!-- BLOG-POST-LIST:START -->
-- [XBSTACK 全站架构深度拆解：构建高并发业务自动化场景](https://www.xbstack.com/ai/xbstack-architecture/?utm_source=github&utm_medium=readme&utm_campaign=xbstack_architecture)
-- [AI Agent 全栈指南 2026：从架构、工具调用到评估部署的生产化路线图](https://www.xbstack.com/ai/ai-agent-complete-guide/?utm_source=github&utm_medium=readme&utm_campaign=ai_agent_complete_guide)
-- [MCP vs Function Calling：区别、适用场景与真实项目怎么选？](https://www.xbstack.com/ai/mcp-vs-function-calling/?utm_source=github&utm_medium=readme&utm_campaign=mcp_vs_function_calling)
-- [LangGraph Memory 与 Checkpointing：生产级 AI Agent 如何保存、恢复和审计状态？](https://www.xbstack.com/ai/langgraph-memory-checkpointing-production-agents/?utm_source=github&utm_medium=readme&utm_campaign=langgraph_memory_checkpointing)
-- [n8n AI Starter Kit：Gmail、Slack、Notion、自托管与生产化路线](https://www.xbstack.com/ai/n8n-ai-starter-kit/?utm_source=github&utm_medium=readme&utm_campaign=n8n_ai_starter_kit)
+- [个人网站发布前数据质检：GSC、GA4、404 和产品证据怎么判断够不够？](https://www.xbstack.com/ai/xbstack-pre-release-data-support-audit/)
+- [站外分发带不来流量？我给 XBSTACK 补了一套 UTM 追踪闭环](https://www.xbstack.com/ai/xbstack-utm-distribution-tracking/)
+- [Search Console 有曝光没点击，我才发现问题不在收录，而在标题和入口](https://www.xbstack.com/ai/search-console-ctr-title-fix/)
+- [个人网站 404 暴增，我才发现问题不在代码，而在外链路径](https://www.xbstack.com/ai/xbstack-404-cloudflare-astro-route-fix/)
+- [n8n AI Starter Kit：从 Gmail、Slack、Notion 到自托管、Queue Mode 和 Webhook 排障](https://www.xbstack.com/ai/n8n-ai-starter-kit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
