@@ -32,11 +32,11 @@
 
 ## 🆕 Latest Articles
 
+- [Claude Sonnet 5 实测：Astro chunk 过大优化全过程](https://www.xbstack.com/ai/claude-sonnet-5-astro-bundle-optimization/) (2026-07-08)
 - [MCP、Function Calling 和 API Gateway 怎么配？AI Agent 工具接入的三层架构](https://www.xbstack.com/ai/mcp-function-calling-api-gateway-architecture/) (2026-07-07)
 - [个人网站发布前数据质检：GSC、GA4、404 和产品证据怎么判断够不够？](https://www.xbstack.com/ai/xbstack-pre-release-data-support-audit/) (2026-07-05)
 - [站外分发带不来流量？我给 XBSTACK 补了一套 UTM 追踪闭环](https://www.xbstack.com/ai/xbstack-utm-distribution-tracking/) (2026-07-04)
 - [Search Console 有曝光没点击，我才发现问题不在收录，而在标题和入口](https://www.xbstack.com/ai/search-console-ctr-title-fix/) (2026-07-03)
-- [个人网站 404 暴增，我才发现问题不在代码，而在外链路径](https://www.xbstack.com/ai/xbstack-404-cloudflare-astro-route-fix/) (2026-07-02)
 
 ---
 ## LangGraph Production Notes
