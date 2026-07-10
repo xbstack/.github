@@ -11,11 +11,11 @@
 ## ✍️ 个人博客最新动态 (Latest from XBSTACK)
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT5.6 实测：放进真实项目、内容创作和数据分析后，升级到底在哪？](https://www.xbstack.com/ai/gpt56-test/)
 - [Claude Sonnet 5 实测：Astro chunk 过大优化全过程](https://www.xbstack.com/ai/claude-sonnet-5-astro-bundle-optimization/)
 - [MCP、Function Calling 和 API Gateway 怎么配？AI Agent 工具接入的三层架构](https://www.xbstack.com/ai/mcp-function-calling-api-gateway-architecture/)
 - [个人网站发布前数据质检：GSC、GA4、404 和产品证据怎么判断够不够？](https://www.xbstack.com/ai/xbstack-pre-release-data-support-audit/)
 - [站外分发带不来流量？我给 XBSTACK 补了一套 UTM 追踪闭环](https://www.xbstack.com/ai/xbstack-utm-distribution-tracking/)
-- [Search Console 有曝光没点击，我才发现问题不在收录，而在标题和入口](https://www.xbstack.com/ai/search-console-ctr-title-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
