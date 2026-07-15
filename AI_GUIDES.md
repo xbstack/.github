@@ -66,7 +66,7 @@ Total AI guides: **131**
 - [n8n AI Workflow 实战：Gmail 邮件摘要自动写入 Google Sheets](https://www.xbstack.com/ai/n8n-ai-gmail-summarizer-openai-google-sheets/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_ai_gmail_summarizer_openai_google_sheets) — 2026-05-30
 - [Self-hosted n8n AI Workflow 实战：Docker、Postgres、VPS 与 NAS 部署指南](https://www.xbstack.com/ai/self-hosted-n8n-ai-workflows/?utm_source=github&utm_medium=ai_guides&utm_campaign=self_hosted_n8n_ai_workflows) — 2026-05-28
 - [n8n AI Workflow 实战：构建 Notion 知识库智能体与多级检索自愈](https://www.xbstack.com/ai/n8n-ai-notion-knowledge-base-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_ai_notion_knowledge_base_agent) — 2026-05-27
-- [MCP 文件与数据网关实战：Resources、Tools、Prompts 与安全沙箱](https://www.xbstack.com/ai/mcp-protocol-deep-dive/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_protocol_deep_dive) — 2026-05-24
+- [MCP 文件服务器实战：Resources、Tools、Roots 与安全沙箱](https://www.xbstack.com/ai/mcp-protocol-deep-dive/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_filesystem_security) — 2026-07-15
 - [AI 销售助手 vs 线索评分智能体：构建自动化收入引擎实战/深度对比](https://www.xbstack.com/ai/ai-sales-assistant-vs-lead-scoring/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_sales_assistant_vs_lead_scoring) — 2026-05-21
 - [AI 客服自动化 vs 工单路由智能体：高并发支持工作流实战/深度对比](https://www.xbstack.com/ai/ai-customer-support-vs-ai-ticket-routing-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=ai_customer_support_vs_ai_ticket_routing_agent) — 2026-05-20
 - [AI 供应商管理智能体实战：供应商准入、采购合规、ERP 对接与审计闭环](https://www.xbstack.com/ai/how-to-build-an-ai-vendor-management-agent/?utm_source=github&utm_medium=ai_guides&utm_campaign=how_to_build_an_ai_vendor_management_agent) — 2026-05-19
