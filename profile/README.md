@@ -30,13 +30,13 @@
 
 ---
 
-## 🆕 Latest Articles
+## 🆕 Latest Reviewed Articles
 
-- [MCP 文件服务器实战：Resources、Tools、Roots 与安全沙箱](https://www.xbstack.com/ai/mcp-protocol-deep-dive/?utm_source=github&utm_medium=profile&utm_campaign=mcp_filesystem_security) (2026-07-15)
-- [GPT5.6 实测：放进真实项目、内容创作和数据分析后，升级到底在哪？](https://www.xbstack.com/ai/tools-lab/gpt56-test/) (2026-07-10)
-- [Claude Sonnet 5 实测：Astro chunk 过大优化全过程](https://www.xbstack.com/ai/tools-lab/claude-sonnet-5-astro-bundle-optimization/) (2026-07-08)
-- [MCP、Function Calling 和 API Gateway 怎么配？AI Agent 工具接入的三层架构](https://www.xbstack.com/ai/mcp-function-calling-api-gateway-architecture/) (2026-07-07)
-- [个人网站发布前数据质检：GSC、GA4、404 和产品证据怎么判断够不够？](https://www.xbstack.com/ai/xbstack-pre-release-data-support-audit/) (2026-07-05)
+- [Kimi K3 on a Real Astro Project: July 20 Product Update and Engineering Boundaries](https://www.xbstack.com/en/ai/tools-lab/kimi-k3-real-astro-project-test/?utm_source=github&utm_medium=profile&utm_campaign=kimi_k3_update&utm_content=latest_article&ref=github) (2026-07-20)
+- [AI Agent Framework Guide 2026: LangGraph, AI SDK 7, Google ADK, and Microsoft Agent Framework](https://www.xbstack.com/en/ai/ai-agent-framework-comparison/?utm_source=github&utm_medium=profile&utm_campaign=agent_framework_2026&utm_content=latest_article&ref=github) (2026-07-20)
+- [MCP -32700 Parse Error: 30-Second stdout/stderr Diagnostics](https://www.xbstack.com/en/ai/mcp-json-rpc-parse-error/?utm_source=github&utm_medium=profile&utm_campaign=mcp_parse_error&utm_content=latest_article&ref=github) (2026-07-20)
+- [MCP Filesystem Security: Resources, Tools, Roots, and the Sandbox Boundary](https://www.xbstack.com/en/ai/mcp-protocol-deep-dive/?utm_source=github&utm_medium=profile&utm_campaign=mcp_filesystem_security&utm_content=latest_article&ref=github) (2026-07-15)
+- [GPT-5.6 on a Real Project: Workflow, Data, and Permission Boundaries](https://www.xbstack.com/en/ai/tools-lab/gpt56-test/?utm_source=github&utm_medium=profile&utm_campaign=gpt56_real_workflow&utm_content=latest_article&ref=github) (2026-07-10)
 
 ---
 ## LangGraph Production Notes
