@@ -1,55 +1,39 @@
-# XBSTACK 👋
+# XBSTACK
 
-**Independent AI Engineering Lab** focused on **AI Agent Engineering**, **Workflow Systems**, **MCP Protocol**, and high-performance **Local AI Infrastructure**.
+**Independent AI engineering lab for reproducible Agent, LangGraph, n8n, MCP, OpenAI and AI SDK problems.**
 
-> **在高处看世界，在底层堆资产。**
+> 在高处看世界，在底层堆资产。
 
----
+## Start with a problem
 
-## 🔭 The Lab
+### LangGraph
+- [`aupdate_state` → `InvalidUpdateError: Ambiguous update`](https://github.com/xbstack/langgraph-aupdate-state-ambiguous-update-repro) · [full analysis](https://www.xbstack.com/en/ai/langgraph-aupdate-state-ambiguous-update/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=langgraph_aupdate_state)
+- [ToolNode async `max_concurrency` ignored](https://github.com/xbstack/langgraph-toolnode-max-concurrency-repro) · [full analysis](https://www.xbstack.com/en/ai/langgraph-toolnode-max-concurrency-ignored/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=langgraph_concurrency)
+- [SQLite failed batch partially commits state](https://github.com/xbstack/langgraph-sqlite-partial-commit-repro) · [full analysis](https://www.xbstack.com/en/ai/langgraph-checkpointer-memory-sqlite-redis/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=langgraph_sqlite)
 
-- **AI Agents**: Autonomous reasoning, planning & tool-use architectures.
-- **Workflow Systems**: Orchestrating complex logic with LangGraph & CrewAI.
-- **MCP Protocol**: Standardized tool integration for secure LLM execution.
-- **Local AI**: Private inference infrastructure & on-device model deployment.
-- **Engineering Experiments**: Real-world benchmarks & technical audits.
+### n8n
+- [2.35.3 `$json` mutating Array methods return `null`](https://github.com/xbstack/n8n-2353-json-array-null-repro) · [full analysis](https://www.xbstack.com/en/ai/n8n-2353-json-array-methods-return-null/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=n8n_array_null)
+- [HTTP Request Raw body returns stream internals](https://github.com/xbstack/n8n-http-request-raw-body-stream-repro) · [full analysis](https://www.xbstack.com/en/ai/n8n-http-request-raw-body-response-stream/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=n8n_raw_stream)
+- [ARM64 distroless `GLIBC_PRIVATE` failure](https://github.com/xbstack/n8n-distroless-arm64-glibc-repro) · [full analysis](https://www.xbstack.com/en/ai/n8n-distroless-arm64-glibc-error/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=n8n_arm64_glibc)
 
----
+### OpenAI
+- [Responses API stream abort / `No tool call found`](https://github.com/xbstack/openai-responses-stream-abort-tool-call-loss) · [full analysis](https://www.xbstack.com/en/ai/openai-responses-api-stream-abort-tool-call-lost/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=openai_stream_abort)
+- [Agents SDK RunState approval/resume lab](https://github.com/xbstack/openai-agents-runstate-approval-resume-lab) · [full analysis](https://www.xbstack.com/en/ai/openai-agents-sdk-runstate-approval-resume/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=openai_runstate)
 
-## ⭐ Start Here (Hot Technical Guides)
+### MCP and AI SDK
+- [MCP stdio / `-32700 Parse Error` diagnostics](https://github.com/xbstack/mcp-stdio-diagnostics) · [full analysis](https://www.xbstack.com/en/ai/mcp-json-rpc-parse-error/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=mcp_parse_error)
+- [AI SDK 7 migration demo](https://github.com/xbstack/xbstack-ai-sdk-7-migration-demo) · [full analysis](https://www.xbstack.com/en/ai/vercel-ai-sdk-7-migration-production/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=ai_sdk_7)
 
-👉 **[AI Agent Development Hub (The Nexus) →](https://www.xbstack.com/github/?utm_source=github&utm_medium=profile&utm_campaign=github)**  
+## Problem Labs
 
-- **[AI Agent Full-Stack Guide 2026](https://www.xbstack.com/ai/ai-agent-complete-guide/?utm_source=github&utm_medium=profile&utm_campaign=ai_agent_complete_guide)** — production route from architecture and tool-use to evaluation and deployment.
-- **[MCP vs Function Calling](https://www.xbstack.com/ai/mcp-vs-function-calling/?utm_source=github&utm_medium=profile&utm_campaign=mcp_vs_function_calling)** — how to choose protocol-level tools or simple function calling in real projects.
-- **[LangGraph Memory & Checkpointing](https://www.xbstack.com/ai/langgraph-memory-checkpointing-production-agents/?utm_source=github&utm_medium=profile&utm_campaign=langgraph_memory_checkpointing_production_agents)** — state persistence, recovery, auditability, and production agent memory.
-- **[n8n AI Starter Kit](https://www.xbstack.com/ai/n8n-ai-starter-kit/?utm_source=github&utm_medium=profile&utm_campaign=n8n_ai_starter_kit)** — Gmail, Slack, Notion, self-hosting, queues, and workflow automation.
+**[Browse the XBSTACK Problem Labs index →](https://github.com/xbstack/problem-labs)**
 
-- **[Full AI Guides Index](../AI_GUIDES.md)** — all XBSTACK AI articles in one GitHub entry page, with UTM-tagged outbound links.
-- **[XBSTACK Architecture Deep Dive](https://www.xbstack.com/ai/xbstack-architecture/?utm_source=github&utm_medium=profile&utm_campaign=xbstack_architecture)** — how the content system, tools, SEO, and infrastructure are wired together.
+Every lab aims to preserve this chain:
 
----
+`real problem → minimal reproduction → version matrix → tested workaround → upstream thread → XBSTACK deep dive`
 
-## 🆕 Latest Reviewed Articles
+Website: https://www.xbstack.com/github/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=problem_labs
 
-- [Kimi K3 on a Real Astro Project: July 20 Product Update and Engineering Boundaries](https://www.xbstack.com/en/ai/tools-lab/kimi-k3-real-astro-project-test/?utm_source=github&utm_medium=profile&utm_campaign=kimi_k3_update&utm_content=latest_article&ref=github) (2026-07-20)
-- [AI Agent Framework Guide 2026: LangGraph, AI SDK 7, Google ADK, and Microsoft Agent Framework](https://www.xbstack.com/en/ai/ai-agent-framework-comparison/?utm_source=github&utm_medium=profile&utm_campaign=agent_framework_2026&utm_content=latest_article&ref=github) (2026-07-20)
-- [MCP -32700 Parse Error: 30-Second stdout/stderr Diagnostics](https://www.xbstack.com/en/ai/mcp-json-rpc-parse-error/?utm_source=github&utm_medium=profile&utm_campaign=mcp_parse_error&utm_content=latest_article&ref=github) (2026-07-20)
-- [MCP Filesystem Security: Resources, Tools, Roots, and the Sandbox Boundary](https://www.xbstack.com/en/ai/mcp-protocol-deep-dive/?utm_source=github&utm_medium=profile&utm_campaign=mcp_filesystem_security&utm_content=latest_article&ref=github) (2026-07-15)
-- [GPT-5.6 on a Real Project: Workflow, Data, and Permission Boundaries](https://www.xbstack.com/en/ai/tools-lab/gpt56-test/?utm_source=github&utm_medium=profile&utm_campaign=gpt56_real_workflow&utm_content=latest_article&ref=github) (2026-07-10)
+## What XBSTACK builds
 
----
-## LangGraph Production Notes
-
-- [Supervisor / Worker handoff](https://www.xbstack.com/ai/langgraph-supervisor-worker-handoff/?utm_source=github&utm_medium=profile&utm_campaign=langgraph_supervisor)
-- [thread_id / session_id isolation](https://www.xbstack.com/ai/langgraph-thread-session-state-isolation/?utm_source=github&utm_medium=profile&utm_campaign=langgraph_state_isolation)
-- [Checkpointer recovery](https://www.xbstack.com/ai/langgraph-checkpointer-memory-sqlite-redis/?utm_source=github&utm_medium=profile&utm_campaign=langgraph_checkpointer)
-- [Human-in-the-loop workflow](https://www.xbstack.com/ai/langgraph-human-in-the-loop-approval/?utm_source=github&utm_medium=profile&utm_campaign=langgraph_hitl)
-- [Multi-agent observability](https://www.xbstack.com/ai/langgraph-observability-agent-trace/?utm_source=github&utm_medium=profile&utm_campaign=langgraph_observability)
-
----
-## 🚀 Building in Public
-
-I am building a long-term technical content system around **AI Agent engineering**, **MCP Protocol**, full-stack AI products, and independent digital assets.
-
-AI Agent | MCP Protocol | Full-Stack AI | Indie Apps | Digital Assets
+AI Agent engineering · MCP protocol · LangGraph production state · n8n workflows · OpenAI APIs/Agents SDK · AI SDK · reproducible debugging · evaluation · security · deployment
