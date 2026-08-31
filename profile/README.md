@@ -34,6 +34,19 @@ Every lab aims to preserve this chain:
 
 Website: https://www.xbstack.com/github/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=problem_labs
 
+## Latest MCP & Web Agent Updates
+
+- [How to Configure llms.txt v2: alternate, describedby, and Markdown Discovery](https://www.xbstack.com/en/ai/llms-txt-v2-agent-readiness/?utm_source=github&utm_medium=referral&utm_campaign=llms_txt_v2&utm_content=latest_article&ref=github) (2026-08-31)
+- [How to Add WebMCP to a Website: Chrome 149, Tool Schemas, and registerTool](https://www.xbstack.com/en/ai/webmcp-chrome-149-website-tools/?utm_source=github&utm_medium=referral&utm_campaign=webmcp_chrome149&utm_content=latest_article&ref=github) (2026-08-31)
+- [How to Test an MCP Server Before Production: Read-Only Inspector Preflight](https://www.xbstack.com/en/ai/mcp-server-read-only-preflight-inspector/?utm_source=github&utm_medium=referral&utm_campaign=mcp_readonly_preflight&utm_content=latest_article&ref=github) (2026-08-31)
+- [How to Security Check an MCP Configuration: Secrets, Shell, Remote MCP, and Permissions](https://www.xbstack.com/en/ai/mcp-config-secret-permission-security-audit/?utm_source=github&utm_medium=referral&utm_campaign=mcp_config_security&utm_content=latest_article&ref=github) (2026-08-31)
+
+## MCP & Agent Tooling
+
+- [Agent Readiness Auditor](https://www.xbstack.com/en/tools/agent-readiness-auditor/?utm_source=github&utm_medium=referral&utm_campaign=agent_readiness_auditor&utm_content=profile_tool&ref=github) — public website discovery/readiness checks.
+- [MCP Inspector](https://www.xbstack.com/en/tools/mcp-inspector/?utm_source=github&utm_medium=referral&utm_campaign=mcp_inspector&utm_content=profile_tool&ref=github) — read-only MCP endpoint preflight and compatibility inspection.
+- [Agent Security Auditor](https://www.xbstack.com/en/tools/agent-security-auditor/?utm_source=github&utm_medium=referral&utm_campaign=agent_security_auditor&utm_content=profile_tool&ref=github) — configuration-level security review with secret redaction and least-privilege checks.
+
 ## What XBSTACK builds
 
 AI Agent engineering · MCP protocol · LangGraph production state · n8n workflows · OpenAI APIs/Agents SDK · AI SDK · reproducible debugging · evaluation · security · deployment

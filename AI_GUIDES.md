@@ -2,10 +2,14 @@
 
 > Full AI article index for XBSTACK. Every outbound article link carries GitHub UTM parameters for traffic attribution.
 
-Total AI guides: **131**
+Total AI guides: **135**
 
 ## Latest AI Articles
 
+- [llms.txt v2 怎么配置：rel=alternate、describedby 与 Markdown 发现](https://www.xbstack.com/ai/llms-txt-v2-agent-readiness/?utm_source=github&utm_medium=referral&utm_campaign=llms_txt_v2&utm_content=ai_guides&ref=github) — 2026-08-31
+- [Chrome 149 WebMCP 实战：让网站能力变成 Agent 可发现工具](https://www.xbstack.com/ai/webmcp-chrome-149-website-tools/?utm_source=github&utm_medium=referral&utm_campaign=webmcp_chrome149&utm_content=ai_guides&ref=github) — 2026-08-31
+- [MCP Server 上线前怎么做只读预检：Transport、Discovery、Auth 与兼容性](https://www.xbstack.com/ai/mcp-server-read-only-preflight-inspector/?utm_source=github&utm_medium=referral&utm_campaign=mcp_readonly_preflight&utm_content=ai_guides&ref=github) — 2026-08-31
+- [MCP 配置安全检查：Secret、Shell、远程 MCP 与权限边界](https://www.xbstack.com/ai/mcp-config-secret-permission-security-audit/?utm_source=github&utm_medium=referral&utm_campaign=mcp_config_security&utm_content=ai_guides&ref=github) — 2026-08-31
 - [XBSTACK 全站架构深度拆解：构建高并发业务自动化场景 (Business Automation)](https://www.xbstack.com/ai/xbstack-architecture/?utm_source=github&utm_medium=ai_guides&utm_campaign=xbstack_architecture) — 2026-07-06
 - [n8n AI Starter Kit：Gmail、Slack、Notion、自托管与生产化路线](https://www.xbstack.com/ai/n8n-ai-starter-kit/?utm_source=github&utm_medium=ai_guides&utm_campaign=n8n_ai_starter_kit) — 2026-07-06
 - [MCP vs Function Calling：区别、适用场景与真实项目怎么选？](https://www.xbstack.com/ai/mcp-vs-function-calling/?utm_source=github&utm_medium=ai_guides&utm_campaign=mcp_vs_function_calling) — 2026-07-06
