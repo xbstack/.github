@@ -21,6 +21,7 @@
 - [Agents SDK RunState approval/resume lab](https://github.com/xbstack/openai-agents-runstate-approval-resume-lab) · [full analysis](https://www.xbstack.com/en/ai/openai-agents-sdk-runstate-approval-resume/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=openai_runstate)
 
 ### MCP and AI SDK
+- [`StreamableHTTPClientTransport` SSE disconnect leaves POST pending until timeout](https://github.com/xbstack/mcp-streamable-http-sse-pending-repro) · [upstream #2739](https://github.com/modelcontextprotocol/typescript-sdk/issues/2739) · [full analysis](https://www.xbstack.com/en/ai/mcp-streamable-http-sse-pending-timeout/?utm_source=github&utm_medium=referral&utm_campaign=mcp_streamable_http_sse_pending&utm_content=github_profile)
 - [MCP stdio / `-32700 Parse Error` diagnostics](https://github.com/xbstack/mcp-stdio-diagnostics) · [full analysis](https://www.xbstack.com/en/ai/mcp-json-rpc-parse-error/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=mcp_parse_error)
 - [AI SDK 7 migration demo](https://github.com/xbstack/xbstack-ai-sdk-7-migration-demo) · [full analysis](https://www.xbstack.com/en/ai/vercel-ai-sdk-7-migration-production/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=ai_sdk_7)
 
@@ -36,6 +37,7 @@ Website: https://www.xbstack.com/github/?utm_source=github&utm_medium=referral&u
 
 ## Latest MCP & Web Agent Updates
 
+- [MCP StreamableHTTPClientTransport POST Stays Pending After SSE Disconnect: Issue #2739 Reproduced](https://www.xbstack.com/en/ai/mcp-streamable-http-sse-pending-timeout/?utm_source=github&utm_medium=referral&utm_campaign=mcp_streamable_http_sse_pending&utm_content=profile_latest) (2026-09-01)
 - [How to Configure llms.txt v2: alternate, describedby, and Markdown Discovery](https://www.xbstack.com/en/ai/llms-txt-v2-agent-readiness/?utm_source=github&utm_medium=referral&utm_campaign=llms_txt_v2&utm_content=latest_article&ref=github) (2026-08-31)
 - [How to Add WebMCP to a Website: Chrome 149, Tool Schemas, and registerTool](https://www.xbstack.com/en/ai/webmcp-chrome-149-website-tools/?utm_source=github&utm_medium=referral&utm_campaign=webmcp_chrome149&utm_content=latest_article&ref=github) (2026-08-31)
 - [How to Test an MCP Server Before Production: Read-Only Inspector Preflight](https://www.xbstack.com/en/ai/mcp-server-read-only-preflight-inspector/?utm_source=github&utm_medium=referral&utm_campaign=mcp_readonly_preflight&utm_content=latest_article&ref=github) (2026-08-31)
@@ -45,6 +47,7 @@ Website: https://www.xbstack.com/github/?utm_source=github&utm_medium=referral&u
 
 - [Agent Readiness Auditor](https://www.xbstack.com/en/tools/agent-readiness-auditor/?utm_source=github&utm_medium=referral&utm_campaign=agent_readiness_auditor&utm_content=profile_tool&ref=github) — public website discovery/readiness checks.
 - [MCP Inspector](https://www.xbstack.com/en/tools/mcp-inspector/?utm_source=github&utm_medium=referral&utm_campaign=mcp_inspector&utm_content=profile_tool&ref=github) — read-only MCP endpoint preflight and compatibility inspection.
+- [MCP / Agent Compatibility Tracker](https://www.xbstack.com/en/tools/mcp-radar/?utm_source=github&utm_medium=referral&utm_campaign=compatibility_tracker&utm_content=profile_tool&ref=github) — live MCP server observations plus MCP, AI SDK, LangGraph and OpenAI Agents issue/version tracking.
 - [Agent Security Auditor](https://www.xbstack.com/en/tools/agent-security-auditor/?utm_source=github&utm_medium=referral&utm_campaign=agent_security_auditor&utm_content=profile_tool&ref=github) — configuration-level security review with secret redaction and least-privilege checks.
 
 ## What XBSTACK builds
