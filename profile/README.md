@@ -8,6 +8,7 @@
 
 ### LangGraph
 - [`aupdate_state` → `InvalidUpdateError: Ambiguous update`](https://github.com/xbstack/langgraph-aupdate-state-ambiguous-update-repro) · [full analysis](https://www.xbstack.com/en/ai/langgraph-aupdate-state-ambiguous-update/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=langgraph_aupdate_state)
+- [`Command(resume=dict)` can misclassify ordinary dictionaries as interrupt maps](https://github.com/xbstack/langgraph-command-resume-dict-misclassification-repro) · [upstream #8693](https://github.com/langchain-ai/langgraph/issues/8693)
 - [ToolNode async `max_concurrency` ignored](https://github.com/xbstack/langgraph-toolnode-max-concurrency-repro) · [full analysis](https://www.xbstack.com/en/ai/langgraph-toolnode-max-concurrency-ignored/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=langgraph_concurrency)
 - [SQLite failed batch partially commits state](https://github.com/xbstack/langgraph-sqlite-partial-commit-repro) · [full analysis](https://www.xbstack.com/en/ai/langgraph-checkpointer-memory-sqlite-redis/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=langgraph_sqlite)
 
@@ -22,6 +23,7 @@
 
 ### MCP and AI SDK
 - [`StreamableHTTPClientTransport` SSE disconnect leaves POST pending until timeout](https://github.com/xbstack/mcp-streamable-http-sse-pending-repro) · [upstream #2739](https://github.com/modelcontextprotocol/typescript-sdk/issues/2739) · [full analysis](https://www.xbstack.com/en/ai/mcp-streamable-http-sse-pending-timeout/?utm_source=github&utm_medium=referral&utm_campaign=mcp_streamable_http_sse_pending&utm_content=github_profile)
+- [`WorkflowAgent` signed tool-approval before/after fixture](https://github.com/xbstack/ai-sdk-workflowagent-signed-approval-repro) · [upstream #19964](https://github.com/vercel/ai/issues/19964)
 - [MCP stdio / `-32700 Parse Error` diagnostics](https://github.com/xbstack/mcp-stdio-diagnostics) · [full analysis](https://www.xbstack.com/en/ai/mcp-json-rpc-parse-error/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=mcp_parse_error)
 - [AI SDK 7 migration demo](https://github.com/xbstack/xbstack-ai-sdk-7-migration-demo) · [full analysis](https://www.xbstack.com/en/ai/vercel-ai-sdk-7-migration-production/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=ai_sdk_7)
 
