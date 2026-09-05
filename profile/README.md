@@ -46,4 +46,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [Context Engineering 是什么？AI Agent 如何用 Retrieval、Tool Search、Memory 降低上下文成本](https://www.xbstack.com/ai/context-engineering-agent-cost-memory-tools/)
+- [GPT-6 Astra API 怎么用？价格、Claude/Gemini 对比、105 万上下文与迁移](https://www.xbstack.com/ai/gpt-6-astra-api-guide/)
+- [Gemini 3.8 Flash vs 3.7 Flash：价格没变，Coding、Agent 和实际成本怎么选？](https://www.xbstack.com/ai/gemini-3-8-flash-vs-3-7-flash/)
+- [Claude Fable 5.1 和 Mythos 5.1 有什么区别？价格、权限、Coding 与 Agent 怎么选](https://www.xbstack.com/ai/claude-fable-5-1-vs-mythos-5-1/)
+- [MCP StreamableHTTPClientTransport 请求一直 Pending：SSE 断开后为什么只等 Timeout？](https://www.xbstack.com/ai/mcp-streamable-http-sse-pending-timeout/)
 <!-- BLOG-POST-LIST:END -->
