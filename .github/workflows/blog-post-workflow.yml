@@ -12,13 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-        
-      - name: List Files (Debug)
-        run: ls -R
-        
+        uses: actions/checkout@v7
+
       - name: Update README
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           feed_list: "https://www.xbstack.com/rss.xml"
           readme_path: "./profile/README.md"

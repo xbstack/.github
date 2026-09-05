@@ -18,6 +18,7 @@ XBSTACK turns real engineering failures into public, verifiable assets:
 | LangGraph `Command(resume=dict)` can misclassify ordinary dictionaries as interrupt maps | [langgraph-command-resume-dict-misclassification-repro](https://github.com/xbstack/langgraph-command-resume-dict-misclassification-repro) | [langgraph#8693](https://github.com/langchain-ai/langgraph/issues/8693) · [tracker](https://www.xbstack.com/en/tools/mcp-radar/?utm_source=github&utm_medium=referral&utm_campaign=langgraph_resume_dict_8693&utm_content=github_profile&ref=github) |
 | AI SDK `WorkflowAgent` signed approval: unsupported baseline → opt-in signed replay enforcement | [ai-sdk-workflowagent-signed-approval-repro](https://github.com/xbstack/ai-sdk-workflowagent-signed-approval-repro) | [vercel/ai#19964](https://github.com/vercel/ai/issues/19964) · [analysis](https://www.xbstack.com/en/ai/vercel-ai-sdk-7-migration-production/?utm_source=github&utm_medium=referral&utm_campaign=ai_sdk_workflowagent_approval&utm_content=github_profile&ref=github) |
 | LangGraph async `aupdate_state` raises `Ambiguous update` where sync succeeds | [langgraph-aupdate-state-ambiguous-update-repro](https://github.com/xbstack/langgraph-aupdate-state-ambiguous-update-repro) | [langgraph#8714](https://github.com/langchain-ai/langgraph/issues/8714) · [analysis](https://www.xbstack.com/en/ai/langgraph-aupdate-state-ambiguous-update/?utm_source=github&utm_medium=referral&utm_campaign=langgraph_aupdate_state_ambiguous_update&utm_content=github_profile&ref=github) |
+| Accepted LangGraph run can disappear before the first durable checkpoint; fresh recovery raises `EmptyInputError` | [langgraph-first-checkpoint-acceptance-ledger-repro](https://github.com/xbstack/langgraph-first-checkpoint-acceptance-ledger-repro) | [langgraph#8764](https://github.com/langchain-ai/langgraph/issues/8764) · [Problem Labs](https://www.xbstack.com/github/?utm_source=github&utm_medium=referral&utm_campaign=langgraph_first_checkpoint_acceptance_ledger&utm_content=github_profile&ref=github) |
 | n8n Raw body + explicit JSON response returns stream internals | [n8n-http-request-raw-body-stream-repro](https://github.com/xbstack/n8n-http-request-raw-body-stream-repro) | [n8n#36402](https://github.com/n8n-io/n8n/issues/36402) · [analysis](https://www.xbstack.com/en/ai/n8n-http-request-raw-body-response-stream/?utm_source=github&utm_medium=referral&utm_campaign=n8n_http_raw_response_stream&utm_content=github_profile&ref=github) |
 | OpenAI Agents SDK RunState approval/resume across processes and redelivery | [openai-agents-runstate-approval-resume-lab](https://github.com/xbstack/openai-agents-runstate-approval-resume-lab) | [analysis](https://www.xbstack.com/en/ai/openai-agents-sdk-runstate-approval-resume/?utm_source=github&utm_medium=referral&utm_campaign=openai_agents_runstate&utm_content=github_profile&ref=github) |
 
@@ -41,3 +42,8 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 - No generic promotional replies or unrelated backlinks.
 
 **Browse all reproducible engineering assets → [XBSTACK Problem Labs](https://github.com/xbstack/problem-labs)**
+
+## Latest from XBSTACK
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
