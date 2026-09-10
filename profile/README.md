@@ -8,7 +8,17 @@ XBSTACK turns real engineering failures into public, verifiable assets:
 
 `real problem → minimal reproduction → version matrix → tested workaround → upstream issue → deep dive`
 
-**[Problem Labs](https://github.com/xbstack/problem-labs)** · **[MCP & Agent Tools](https://www.xbstack.com/en/tools/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=tools_entry&ref=github)** · **[XBSTACK.com](https://www.xbstack.com/github/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=website_entry&ref=github)**
+**[Problem Labs](https://github.com/xbstack/problem-labs)** · **[MCP & Agent Tools](https://www.xbstack.com/en/tools/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=tools_entry&ref=github)** · **[XBSTACK Open Engineering Hub](https://www.xbstack.com/github/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=website_entry&ref=github)**
+
+## Latest Analysis · AI Agent Economics
+
+### [OpenAI Is Testing Outcome-Based Pricing: Why AI Agents May Move Beyond Token Billing](https://www.xbstack.com/en/ai/openai-outcome-based-pricing-ai-agent-roi/?utm_source=github&utm_medium=referral&utm_campaign=openai_outcome_based_pricing&utm_content=org_profile_featured&ref=github)
+
+OpenAI is experimenting with enterprise pricing tied more closely to business outcomes. The engineering question is not simply whether token pricing disappears—it is how to measure an Agent when retries, approvals, tool execution, recovery, human review, and verification all contribute to delivery cost.
+
+`Token / Compute → Task / Agent → Verified Outcome → Business Value → ROI`
+
+The analysis connects pricing architecture to production metrics such as **Task Success Rate**, **Cost per Verified Outcome**, outcome verification, and model routing. For the runtime side of that equation, see the [RunState approval/resume lab](https://github.com/xbstack/openai-agents-runstate-approval-resume-lab) and the [AI SDK 7 migration lab](https://github.com/xbstack/xbstack-ai-sdk-7-migration-demo).
 
 ## Featured Problem Labs
 
