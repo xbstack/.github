@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [Codex CLI 为什么把 response.failed 变成 idle timeout waiting for SSE？0.153.4/0.154.0 复现](https://www.xbstack.com/ai/tools-lab/codex-response-failed-idle-timeout-sse/)
 - [LangGraph Conditional Router 异常后 Resume 为什么跳过下游节点？1.2.11 复现与临时方案](https://www.xbstack.com/ai/langgraph-conditional-router-resume-skips-downstream/)
 - [OpenAI 开始试验“按结果收费”：AI Agent 为什么可能不再只按 Token 计费？](https://www.xbstack.com/ai/openai-outcome-based-pricing-ai-agent-roi/)
 - [Funes Agent Memory 实测：Codex 长期记忆召回、旧记忆污染与本地隐私边界](https://www.xbstack.com/ai/funes-coding-agent-memory/)
 - [LangGraph Checkpoint 恢复后时间为什么会错一小时？ZoneInfo / fold 丢失问题复现与临时方案](https://www.xbstack.com/ai/langgraph-checkpoint-zoneinfo-fold-dst/)
-- [LangGraph 第一个 Checkpoint 前崩溃会丢任务吗？EmptyInputError 与 Accepted Run 恢复实战](https://www.xbstack.com/ai/langgraph-first-checkpoint-crash-accepted-run-lost/)
 <!-- BLOG-POST-LIST:END -->
