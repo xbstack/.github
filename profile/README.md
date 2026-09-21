@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 安全正在进入 Agent 时代：从模型越狱到真实行动风险](https://www.xbstack.com/notes/ai-agent-security-trend-action-risk/)
 - [OpenAI Agents API vs Agents SDK vs Responses API：生产级 Agent 到底该把控制权交给谁？](https://www.xbstack.com/ai/openai-agents-api-vs-agents-sdk-responses-api/)
 - [Google ADK delete_session 为什么删不掉长期 Memory？2.8.0/2.9.0 实测](https://www.xbstack.com/ai/google-adk-delete-session-memory-retained/)
 - [Codex CLI 为什么把 response.failed 变成 idle timeout waiting for SSE？0.153.4/0.154.0 复现](https://www.xbstack.com/ai/tools-lab/codex-response-failed-idle-timeout-sse/)
 - [LangGraph Conditional Router 异常后 Resume 为什么跳过下游节点？1.2.11 复现与临时方案](https://www.xbstack.com/ai/langgraph-conditional-router-resume-skips-downstream/)
-- [OpenAI 开始试验“按结果收费”：AI Agent 为什么可能不再只按 Token 计费？](https://www.xbstack.com/ai/openai-outcome-based-pricing-ai-agent-roi/)
 <!-- BLOG-POST-LIST:END -->
