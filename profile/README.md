@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [贵州秋天去哪？兴义和威宁怎么选：两种完全不同的旅行方式](https://www.xbstack.com/lens/guizhou-autumn-xingyi-vs-weining/)
+- [今年中秋和国庆，我反而不想把假期塞满：如果让我重新安排这 10 天，我会这样走](https://www.xbstack.com/lens/mid-autumn-national-day-slow-travel-plan/)
+- [独立开发者该留多少现金？我现在更看重 Runway，而不是一个固定月数](https://www.xbstack.com/insights/independent-developer-cash-runway/)
 - [AI 安全正在进入 Agent 时代：从模型越狱到真实行动风险](https://www.xbstack.com/notes/ai-agent-security-trend-action-risk/)
 - [OpenAI Agents API vs Agents SDK vs Responses API：生产级 Agent 到底该把控制权交给谁？](https://www.xbstack.com/ai/openai-agents-api-vs-agents-sdk-responses-api/)
-- [Google ADK delete_session 为什么删不掉长期 Memory？2.8.0/2.9.0 实测](https://www.xbstack.com/ai/google-adk-delete-session-memory-retained/)
-- [Codex CLI 为什么把 response.failed 变成 idle timeout waiting for SSE？0.153.4/0.154.0 复现](https://www.xbstack.com/ai/tools-lab/codex-response-failed-idle-timeout-sse/)
-- [LangGraph Conditional Router 异常后 Resume 为什么跳过下游节点？1.2.11 复现与临时方案](https://www.xbstack.com/ai/langgraph-conditional-router-resume-skips-downstream/)
 <!-- BLOG-POST-LIST:END -->
