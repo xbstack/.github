@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [EmbeddingGemma 2 本地检索实测：Mac 270M、PDF/Word 与 256/768 维](https://www.xbstack.com/ai/embeddinggemma-2-local-retrieval-test/)
 - [Personal AI Agent 架构：从聊天助手到真正替你执行任务，Memory、权限、App 与本地/云端怎么设计？](https://www.xbstack.com/ai/personal-ai-agent-architecture/)
 - [iPhone Duo 怎么适配？Apple 官方指南下的 UIKit、Tab Bar 与折叠布局实战](https://www.xbstack.com/ai/iphone-duo-uikit-adaptation/)
 - [AI Agent Sandbox 怎么设计？Hosted vs Self-hosted、文件、Secret、网络与持久化](https://www.xbstack.com/ai/ai-agent-sandbox-hosted-vs-self-hosted/)
 - [Transformers 跑 GGUF 出现 “Dequantizing the whole model” 怎么解决？PyTorch 版本实测](https://www.xbstack.com/ai/tools-lab/transformers-gguf-dequantizing-whole-model-fix/)
-- [AI Agent 决策模型：OpenAI Decisions API、Jev 与 LLM 路由应该怎么分工？](https://www.xbstack.com/ai/jev-ai-agent-decision-layer/)
 <!-- BLOG-POST-LIST:END -->
