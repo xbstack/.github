@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [GDP还在增长，为什么身边的日子却有些冷？](https://www.xbstack.com/insights/gdp-growth-everyday-life-2026/)
 - [LiteRT Tensor API：C++ 编写端侧模型图，XNNPACK、GPU 与 NPU 怎么选？](https://www.xbstack.com/ai/litert-tensor-api-cpp-xnnpack-gpu-npu/)
 - [今年投资收益转负，我却舍不得清仓：重读哈耶克《通往奴役之路》](https://www.xbstack.com/horizon/reading/the-road-to-serfdom-hayek-1944-reading-notes/)
 - [LFM2.5-24B-A2B 本地部署：Mac 内存需求与 GGUF、MLX 选择](https://www.xbstack.com/ai/lfm2-5-24b-a2b-mac-memory-gguf-mlx/)
 - [Gemini 4 Argon 发布：功能、API 定价、迁移指南与真实项目评估方案](https://www.xbstack.com/ai/gemini-4-argon-api-pricing-evaluation-plan/)
-- [秋季一日徒步怎么规划：比走多远更重要的六个判断](https://www.xbstack.com/life/autumn-hiking-safety-checklist/)
 <!-- BLOG-POST-LIST:END -->
