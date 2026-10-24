@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么只靠向量搜索，做不好个人 AI 知识库？——RecalAI 混合检索工程实践](https://www.xbstack.com/ai/recalai-hybrid-retrieval/)
 - [《通往奴役之路》第2篇：安全与自由真的冲突吗？](https://www.xbstack.com/horizon/reading/road-to-serfdom-security-freedom/)
 - [GDP还在增长，为什么身边的日子却有些冷？](https://www.xbstack.com/insights/gdp-growth-everyday-life-2026/)
 - [LiteRT Tensor API：C++ 编写端侧模型图，XNNPACK、GPU 与 NPU 怎么选？](https://www.xbstack.com/ai/litert-tensor-api-cpp-xnnpack-gpu-npu/)
 - [今年投资收益转负，我却舍不得清仓：重读哈耶克《通往奴役之路》](https://www.xbstack.com/horizon/reading/the-road-to-serfdom-hayek-1944-reading-notes/)
-- [LFM2.5-24B-A2B 本地部署：Mac 内存需求与 GGUF、MLX 选择](https://www.xbstack.com/ai/lfm2-5-24b-a2b-mac-memory-gguf-mlx/)
 <!-- BLOG-POST-LIST:END -->
