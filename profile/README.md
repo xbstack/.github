@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [本地优先 AI 知识库如何跨设备同步？原文、Embedding、冲突与删除的工程设计](https://www.xbstack.com/ai/local-first-ai-knowledge-sync/)
 - [AI Agent 联网搜索如何保证结果可信？Search、Fetch 与引用校验的生产工程](https://www.xbstack.com/ai/ai-agent-web-search-evidence-audit/)
 - [用户自填 API Key，AI App 就更隐私了吗？本地 AI、云端数据保留与 BYOK 的真正边界](https://www.xbstack.com/ai/byok-local-ai-cloud-model-data-privacy/)
 - [2027—2028 AI 产业趋势：云端 Agent、端侧 AI、小模型与隐私安全](https://www.xbstack.com/ai/ai-industry-trends-2027-2028/)
 - [《通往奴役之路》第3篇：真理的终结与投资中的固执](https://www.xbstack.com/horizon/reading/the-road-to-serfdom-end-of-truth/)
-- [为什么只靠向量搜索，做不好个人 AI 知识库？——RecalAI 混合检索工程实践](https://www.xbstack.com/ai/recalai-hybrid-retrieval/)
 <!-- BLOG-POST-LIST:END -->
