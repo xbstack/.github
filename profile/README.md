@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [三季报利润翻倍，现金流却下降？从三家软件公司的财报读懂利润质量](https://www.xbstack.com/investing/2026-q3-software-profit-cash-flow/)
 - [贵州冬天去哪里？2026冬游避寒、温泉与门票优惠怎么选](https://www.xbstack.com/life/guizhou-winter-travel-2026/)
 - [ChatGPT 账号被停用怎么办？24 小时暂停、申诉与数据导出](https://www.xbstack.com/ai/chatgpt-account-suspended-appeal-data-export/)
 - [个人网站需要备案吗？ICP备案、公安备案与子域名怎么核对](https://www.xbstack.com/insights/personal-website-product-site-filing/)
 - [MCP 安全吗？工具投毒、API Key 泄露风险与防护方法](https://www.xbstack.com/ai/mcp-tool-poisoning/)
-- [AI Agent 总是执行失败？问题出在大模型还是 Agent Harness](https://www.xbstack.com/ai/tools-lab/agent-harness-vs-model-upgrade/)
 <!-- BLOG-POST-LIST:END -->
