@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Fable 5.2 升级后为什么报 400？Agent 历史消息、工具调用与成本排查](https://www.xbstack.com/ai/claude-fable-5-2-api-migration-agent-cost/)
 - [三季报利润翻倍，现金流却下降？从三家软件公司的财报读懂利润质量](https://www.xbstack.com/investing/2026-q3-software-profit-cash-flow/)
 - [贵州冬天去哪里？2026冬游避寒、温泉与门票优惠怎么选](https://www.xbstack.com/life/guizhou-winter-travel-2026/)
 - [ChatGPT 账号被停用怎么办？24 小时暂停、申诉与数据导出](https://www.xbstack.com/ai/chatgpt-account-suspended-appeal-data-export/)
-- [个人网站需要备案吗？ICP备案、公安备案与子域名怎么核对](https://www.xbstack.com/insights/personal-website-product-site-filing/)
 - [MCP 安全吗？工具投毒、API Key 泄露风险与防护方法](https://www.xbstack.com/ai/mcp-tool-poisoning/)
 <!-- BLOG-POST-LIST:END -->
