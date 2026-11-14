@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 会让程序员失业吗？真正危险的不是 AI 会写代码](https://www.xbstack.com/ai/will-ai-replace-programmers/)
 - [A2UI 1.0 是什么？Agent 动态界面、审批与安全实测](https://www.xbstack.com/ai/a2ui-1-0-agent-ui-approval-security/)
 - [个人网站文章越来越多，为什么还是没有流量？一次 592 URL 的真实复盘](https://www.xbstack.com/ai/website-592-url-discovery-indexing-audit/)
 - [Claude Fable 5.2 升级后为什么报 400？Agent 历史消息、工具调用与成本排查](https://www.xbstack.com/ai/claude-fable-5-2-api-migration-agent-cost/)
 - [三季报利润翻倍，现金流却下降？从三家软件公司的财报读懂利润质量](https://www.xbstack.com/investing/2026-q3-software-profit-cash-flow/)
-- [贵州冬天去哪里？2026冬游避寒、温泉与门票优惠怎么选](https://www.xbstack.com/life/guizhou-winter-travel-2026/)
 <!-- BLOG-POST-LIST:END -->
