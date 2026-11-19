@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 4 Neon 发布后，我更关心谁来给 AI 的工作签字](https://www.xbstack.com/ai/gemini-4-neon-agent-acceptance-economics/)
 - [不付 AI API 费用，能做好离线语音与本地 Agent 吗？RecalAI、Lunest 的真实工程取舍](https://www.xbstack.com/ai/free-local-ai-voice-agent-recalai-lunest/)
 - [Gemini 4 Hydrogen、Argon、Carbon 如何分工？从 RecalAI 与 Lunest 的工程决策看 Agent 成本](https://www.xbstack.com/ai/gemini-4-multimodel-routing-recalai-lunest/)
 - [离线语音识别与 TTS 进入真实 App：RecalAI、Lunest 的设备、隐私与失败恢复设计](https://www.xbstack.com/ai/offline-speech-recalai-lunest-engineering-decisions/)
 - [AI 会让程序员失业吗？真正危险的不是 AI 会写代码](https://www.xbstack.com/ai/will-ai-replace-programmers/)
-- [A2UI 1.0 是什么？Agent 动态界面、审批与安全实测](https://www.xbstack.com/ai/a2ui-1-0-agent-ui-approval-security/)
 <!-- BLOG-POST-LIST:END -->
