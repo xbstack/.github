@@ -58,7 +58,7 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 <!-- BLOG-POST-LIST:START -->
 - [网站有 1,449 次会话，我为什么更在意那 84 次互动](https://www.xbstack.com/insights/traffic-versus-readers/)
 - [Gemini 4 Neon 发布后，我更关心谁来给 AI 的工作签字](https://www.xbstack.com/ai/gemini-4-neon-agent-acceptance-economics/)
-- [不付 AI API 费用，能做好离线语音与本地 Agent 吗？RecalAI、Lunest 的真实工程取舍](https://www.xbstack.com/ai/free-local-ai-voice-agent-recalai-lunest/)
-- [Gemini 4 Hydrogen、Argon、Carbon 如何分工？从 RecalAI 与 Lunest 的工程决策看 Agent 成本](https://www.xbstack.com/ai/gemini-4-multimodel-routing-recalai-lunest/)
-- [离线语音识别与 TTS 进入真实 App：RecalAI、Lunest 的设备、隐私与失败恢复设计](https://www.xbstack.com/ai/offline-speech-recalai-lunest-engineering-decisions/)
+- [不付 AI API 费用，能做好离线语音与本地 Agent 吗？OwnRAG、SleepAnew 的真实工程取舍](https://www.xbstack.com/ai/free-local-ai-voice-agent-recalai-lunest/)
+- [Gemini 4 Hydrogen、Argon、Carbon 如何分工？从 OwnRAG 与 SleepAnew 的工程决策看 Agent 成本](https://www.xbstack.com/ai/gemini-4-multimodel-routing-recalai-lunest/)
+- [离线语音识别与 TTS 进入真实 App：OwnRAG、SleepAnew 的设备、隐私与失败恢复设计](https://www.xbstack.com/ai/offline-speech-recalai-lunest-engineering-decisions/)
 <!-- BLOG-POST-LIST:END -->
