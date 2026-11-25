@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [从语音聊天到 AI 个人助理：Qwen-Audio-Live 与实时交互式 AI 的工程边界](https://www.xbstack.com/ai/qwen-audio-live-voice-agent/)
 - [小白周刊 Vol.003｜模型加速迭代之后，真正的竞争在任务交付](https://www.xbstack.com/newsletter/vol-003/)
 - [Gemini Tool Retrieval 怎么用？64 工具对照与 MCP 授权边界](https://www.xbstack.com/ai/gemini-tool-retrieval-dynamic-mcp-tools/)
 - [网站有 1,449 次会话，我为什么更在意那 84 次互动](https://www.xbstack.com/insights/traffic-versus-readers/)
 - [Gemini 4 Neon 发布后，我更关心谁来给 AI 的工作签字](https://www.xbstack.com/ai/gemini-4-neon-agent-acceptance-economics/)
-- [不付 AI API 费用，能做好离线语音与本地 Agent 吗？OwnRAG、SleepAnew 的真实工程取舍](https://www.xbstack.com/ai/free-local-ai-voice-agent-recalai-lunest/)
 <!-- BLOG-POST-LIST:END -->
