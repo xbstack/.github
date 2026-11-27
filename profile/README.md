@@ -56,9 +56,9 @@ AI Agent engineering · MCP protocol · LangGraph production state · n8n workfl
 ## Latest from XBSTACK
 
 <!-- BLOG-POST-LIST:START -->
+- [Pydantic Pax 是什么？与 Codex、Claude Code 的区别及 Agent Harness 的未来](https://www.xbstack.com/ai/tools-lab/pydantic-pax-coding-agent-harness/)
 - [Ternary Bonsai 2.5 27B 本地部署：6GB 模型需要多少内存？GGUF、MLX 与 Agent 选型](https://www.xbstack.com/ai/ternary-bonsai-2-5-27b-local-memory-gguf-mlx/)
 - [从语音聊天到 AI 个人助理：Qwen-Audio-Live 与实时交互式 AI 的工程边界](https://www.xbstack.com/ai/qwen-audio-live-voice-agent/)
 - [小白周刊 Vol.003｜模型加速迭代之后，真正的竞争在任务交付](https://www.xbstack.com/newsletter/vol-003/)
 - [Gemini Tool Retrieval 怎么用？64 工具对照与 MCP 授权边界](https://www.xbstack.com/ai/gemini-tool-retrieval-dynamic-mcp-tools/)
-- [网站有 1,449 次会话，我为什么更在意那 84 次互动](https://www.xbstack.com/insights/traffic-versus-readers/)
 <!-- BLOG-POST-LIST:END -->
